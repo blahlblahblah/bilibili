@@ -1,0 +1,438 @@
+疫情下的问候：你上网课了吗 - 经济观察网 － 专业财经新闻网站。
+Greetings under the Epidemic: Have you taken any online lessons? - Economic Watch - Professional Finance and Economics News.
+window.open (now_url, "优酷弹窗", "height=300, width=400, left=450, top=180, toolbar =no, menubar=no, scrollbars=no, resizable=no, location=no, status=no");。
+window.open. (now _ url, & quot; cool bullet & quot; & quot; light = 300, fifth = 400, left = 450, top = 180, toolbar = no, menubar = no, scrollbars = no, responsible = no, position = no, status = no, status = no & quot;);
+您好  退出。
+Good morning.
+激活卡。
+Activate the card.
+电子版。
+Electronic version.
+激活卡。
+Activate the card.
+电子版。
+Electronic version.
+注册。
+Registration.
+登录。
+Login.
+首页。
+Home page.
+商业产业。
+Commercial industry.
+财经。
+Finance.
+地产。
+Real estate.
+汽车。
+Automobiles.
+评论。
+Comment.
+视频。
+Video.
+研究院。
+Graduate School.
+用户名登录/手机号登录。
+User name login / cell phone number login.
+还没有账号？免费注册。
+No account number? Free registration.
+忘记密码？。
+Forget the code?
+忘记密码？。
+Forget the code?
+登 录。
+Registration.
+关闭。
+Closed.
+$('#al_warn2').text('*请输入手机号');。
+$(& apos; # al _ warn2 & apos;) .text (& apos; * please enter phone number & apos;);
+$('#al_warn2').text('*请输入验证码');。
+$(& apos; # al _ warn2 & apos;) .text (& apos; * please enter a certificate number & apos;);
+var getRequest = true; // 是否请求验证码。
+var getRequest = true; / / Whether or not to request a authentication code.
+$('#al_warn2').text('*请输入手机号');。
+$(& apos; # al _ warn2 & apos;) .text (& apos; * please enter phone number & apos;);
+$('#mobile_send1').val(--waitTime +'重新获取');。
+$(& apos; # mobile _ send1 & apos;) .val (- wait Time + & apos; Re-acquired & apos;);
+$('#mobile_send1').removeClass('disable').css('cursor','pointer').attr('disable', '').val('重新获取');。
+$(& apos; # mobile _ send1 & apos;) .removeClass (& apos; disable & apos;) .css (& apos; cursor & apos;, & apos; & P & apos;) .attr (& apos; disable & apos; & P; & apos; & P; & P; & P; & P; & P; & P; & quot; & quot; & apos; & quot; & apos; & quot; & apos; & quot; & apos; & quot; & apos; & quot; & apos; & quot; & apos; & quot; & apos; & quot; & apos; & quot; & apos; & quot; & apos; & quot; & apos; & qu
+var author="任晓宁";。
+var auther = & quot; Ren Xiaoning & quot;;
+疫情下的问候：你上网课了吗。
+Greetings under the epidemic: Did you get online lessons?
+任晓宁2020-02-13 14:30。
+Ren Xiaoning 2020-02-13 14: 30.
+扫描二维码分享到朋友圈。
+Scanning two-dimensional code to share with friends.
+本报记者 任晓宁 北京报道。
+Our reporter Ren Xiaoning Beijing report.
+“不出门做双份工，兼职人民教师深感疲惫。
+"Not going out to do double work, part-time people teachers are very tired.
+”2月10日晚上，“累瘫”了的二年级小学生妈妈严瑾在朋友圈吐槽。
+On the night of February 10, Yan Jin, the mother of a second-year schoolgirl who had collapsed, spat in a circle of friends.
+。
+.
+从早上8点坐在孩子书桌前，到晚上7点下课，严瑾一天没离开过孩子房间。
+From 8 a.m. sitting in front of the child's desk, until 7 p.m. class, Yan Jin did not leave the children's room for a day.
+一台台式机、两个iPad，一部手机，4个APP，两百多页打印课件，每过5到8分钟一次课程跳转……她本来想一边看着孩子一边做点自己的工作，结果，想象很美好，现实很忧伤。
+One desktop, two iPads, one mobile phone, four APPs, more than 200 printed pages of courseware, and every five to eight minutes of course skipping... she wanted to do some work while watching her kids.
+。
+.
+2月10日，是全国中小学生上网课的日子，为响应教育部疫情期间“停课不停学”号召，全国超过1亿的中小学生在这一天网上上课。
+Feb. 10, the day of online classes for primary and middle school students nationwide, more than 100 million primary and middle school students nationwide took classes on the day in response to a call from the Ministry of Education to "stop school and study."
+。
+.
+严瑾烦恼的同一天，在线教育股大涨，网易有道暴涨39.48%，英语流利说涨逾15%。
+On the same day of Yan Jin's annoyance, online education surged, Netease jumped 39.48 percent, and English was up more than 15 percent.
+。
+.
+长期获客难的在线教育行业，在2020年这个全民不出门的春天，迎来了一次上亿学生网络上课的机遇。
+Long-suffering online education industry, in 2020, the national stay-at-home spring, ushered in an opportunity for hundreds of millions of students to attend classes.
+“对于线上教育产品有利好，”投资人、ONESVentures管理合伙人任宁告诉记者，最直接的一点是，获客成本大幅下降，带来大量新增用户。
+"It's good for online educational products," ONESSVentures managing partner Ren Ning told reporters. The most immediate point is that the cost of getting customers has fallen sharply, bringing in a lot of new users.
+。
+.
+疫情期间，腾讯、阿里、百度、快手等非传统教育公司，也进军教育，他们与地方教育部门合作，免费为师生提供在线教育产品。
+During the epidemic, non-traditional education companies such as Tencent, Ali, Baidu and Fast Track also moved into education, offering online educational products free of charge to teachers and students in collaboration with local education departments.
+。
+.
+亿级新用户涌入，巨头大公司进军，并且有了政策支持的在线教育，能迎来一个期待已久的春天吗？。
+Can a long-awaited spring be ushered in by the influx of hundreds of millions of new users, the advance of giant corporations, and online education backed by policies?
+最怕电脑出问题。
+Most afraid of computer trouble.
+接到记者约访需求时，严瑾正辅导女儿上课。
+When asked for an interview, Yan Jin was guiding her daughter to class.
+2月11日，她已经从“累瘫”的心态中逐渐平和，但时间依旧不够用。
+Feb. 11, she has gradually calmed down from her "paralyzed" mentality, but time is still running out.
+中午孩子下课后，她在午饭和下午1点课程开始前的空档，和记者聊了聊上网课的经历。
+At noon, after class, she chatted with reporters about her online lessons in the lunch break and before the 1: 00 p. m. class.
+。
+.
+严瑾的女儿不是第一次上网课，作为VIPKID的忠实用户，女儿已经连续上了4年英语口语网课，但严瑾从未如此忙乱过。
+Yan Jin's daughter is not the first online class, as a faithful user of VIPKID, daughter has been continuous for four years oral English class, but Yan Jin has never been so busy.
+。
+.
+“我原来有个喷墨打印机，跟不上课件打印速度，又在京东下单了一台激光的，”仅网课课件，严瑾就打印了200多页。
+"I used to have an inkjet printer, I couldn't keep up with the printing speed of courseware, and I ordered a laser in Jingdong," Yan Jin alone printed more than 200 pages of courseware.
+这一天，她每隔5到8分钟，需要在手机、电脑、iPad、课件上切换，“你会发现所有时间都是碎片化的，特别碎片化，你但凡一走神，孩子可能就错过了。
+Every five to eight minutes, she needs to switch between cell phones, computers, iPads, and courseware. "You'll find that all time is fragmented, especially fragmented, and whenever you're distracted, the child may miss it.
+”。
+"
+不能不切换。
+Not without switching.
+语文、数学、英语三大主课分别有自己的课件APP，同时还有课件在电脑压缩包里、爱奇艺视频里。
+Chinese, Mathematics, English three main courses have their own APP courseware, there are also courseware in the computer compression package, Aichi video.
+不同课程的作业APP不同，除了APP作业外，还有其他作业，需要线下拍视频，或是拍照，通过钉钉班级群私信发给老师。
+In addition to the APP assignments, there are other assignments that require an offline video, or a photo shoot, which is sent to the teacher via a private letter nailed to the class.
+。
+.
+之前，严瑾以前在孩子放学后，盯一下课后作业，现在，她需要时时刻刻盯着。
+Before, Yan Jin in the children after school, staring at homework, now, she needs to keep an eye on.
+。
+.
+也不能不盯着，除了正常课程外，每天下午还有2个小时的老师直播答疑，老师会在直播中抽查学生作业完成情况，女儿是二年级小学生，“如果你不盯住她，基本上课都上不完，更不用说做作业了。
+I can't help staring. In addition to the regular classes, there are two hours of teachers answering questions live each afternoon. The teacher checks the students' homework on the air. The daughter is a second-grade pupil.
+”。
+"
+她听到不少初中学生说上网课很简单，但对于低年级小学生，网课还是有点难。
+She heard a lot of junior high school students said that the Internet class is very simple, but for the lower-grade primary school students, or a little difficult.
+。
+.
+屏幕的另一边，在北京一所语言类培训学校做了10年老师的汪华，同样累坏了。
+On the other side of the screen, Wang Hua, who had been a teacher at a language training school in Beijing for 10 years, was also tired.
+2020年大年初七，汪华开始上班，每天有6到8小时网课直播，剩下所有时间都在做课件。
+In 2020, Wang Hua began to work, six to eight hours of live webcasting every day, the rest of the time is doing courseware.
+她以前也做课件，但线下课堂和线上课件的需求量完全不同。
+She used to make courseware too, but the demand for offline and online courseware was quite different.
+2月10日，接到记者电话采访当天，她晚上11点还没忙完，“一个小时的课需要做一天课件，一睁开眼全是事儿。
+February 10, received a telephone interview, she was not busy at 11 p.m., "an hour of classes need to do a day of courseware, open all the things.
+”。
+"
+从业10年，上课经验丰富，网课的体验依旧让汪华不习惯。
+10 years of experience in the classroom, the experience of online lessons still let Wang Hua not used to.
+会很尴尬，“因为你是面对着一个无声的屏幕一直在说，同时你又不能停”。
+It can be awkward, "because you're facing a silent screen and you can't stop at the same time."
+也会很累，传统课堂上，老师可以写板书，跟学生互动，有等待和休息的时间，网课上，就是实打实的一节课45分钟。
+Also can be very tired, the traditional classroom, teachers can write board books, interaction with students, there are waiting and rest time, on the net class, is a solid 45-minute lesson.
+。
+.
+汪华语速极快又有点无奈地说，“我们又不是主播”。
+"We're not the anchorman," Wang Hua said quickly and helplessly.
+。
+.
+2月10日，全国中小学及培训机构老师们“不得不”成为主播，也由此闹出了不少网络热搜的段子。
+Feb. 10, primary and secondary schools and training institutions across the country teachers "had to" become anchor, resulting in a lot of network hot search section.
+微博上，政治老师上课忘开麦，生物老师上课被直播平台封号，“上网课的尴尬”的话题在社交平台传播，也让网课成为疫情之外的一个关注点。
+On microblogging, political teachers forgot to open wheat in class, biology teacher classes were broadcast live platform cover, the topic of "Embarrassment of Online Classes" spread on social platforms, making Internet classes a focus outside the epidemic.
+。
+.
+汪华一个外教同事也遇到了突发状况，由于提前没有测试，他上课当天让全班学生都连上麦开声音，结果是，所有人都掉线了。
+A foreign teacher, Wang Hua, also ran into a emergent situation, and because he did not test ahead of time, he had his class talking to Maikai on class day. As a result, everyone was off line.
+2月10日，汪华遇到网络卡顿问题，学校尝试了不同直播软件，但由于网络环境不同，很难解决，“有学生说家里停电了，你说你能怎么办？”。
+On Feb. 10, Wang Hua encountered a network of problems, the school tried different live broadcast software, but due to different network environment, difficult to solve, "some students said that the power outage at home, you said you can do?"
+“现在大家最怕的就是自己的电脑出问题，刚才我有一个大学老师朋友，他说他电脑坏了，快疯了，你说这时候谁给你上门修？”。
+Just now I had a college teacher friend who said that his computer was broken down and he was going crazy. Who do you think is going to repair it at this time?
+根据艾媒咨询预测，2020年中国在线教育用户规模将达到2.96亿人。
+China will have 296 million users of online education by 2020, according to Aimedia.
+这几天，全国中小学生及家长，都接受了一次网课的突然袭击。
+In the past few days, primary and secondary school students and parents across the country, have received a surprise attack.
+。
+.
+APP用户增长128倍。
+APP users grew 128-fold.
+2月10日晚上，腾讯教育副总裁、腾讯在线教育总经理陈书俊和他的开发团队复盘当天网课情况，他终于松了一口气，顶住了洪峰冲击。
+On the evening of Feb. 10, Tencent Vice President of Education, Tencent online education general manager Chen Shujun and his development team resumed classes that day, he finally breathed a sigh of relief and withstood the onslaught.
+。
+.
+当天，武汉90万中小学生在线开课，其中73万通过腾讯课堂听课。
+On the same day, Wuhan 900,000 primary and secondary school students online classes, of which 730,000 through Tencent classroom.
+除了武汉，湖北、江苏、河南、陕西、山东、上海等20多个省市，均上线了腾讯教育解决方案。
+In addition to Wuhan, Hubei, Jiangsu, Henan, Shaanxi, Shandong, Shanghai and more than 20 provinces and cities, all on-line Tencent education solutions.
+这一天，腾讯课堂在线学习的学生几百万，相比前一天增长3-4倍。
+This day, Tencent classroom online learning millions of students, compared to the previous day's growth of 3-4 times.
+当天0点开始，陈书俊和开发团队就没再合过眼。
+At 0 o'clock that day, Chen Shujun and the development team did not close the eyes again.
+。
+.
+腾讯课堂之前主要为成人职业教育提供在线服务，由于用户多是错峰使用，网络压力不大。
+Tencent classroom before the main adult vocational education to provide online services, because the user is mostly staggered use, network pressure is not great.
+这一次，数百万人同时涌入，压力骤然增加。
+This time, the pressure increased dramatically with the simultaneous influx of millions of people.
+网课正式上线之前，地方教育局的要求是：信号通畅，稳定。
+Before the formal online classes, the local education bureau requirements are: smooth signal, stable.
+上线期间，陈书俊心情始终忐忑。
+On line, Chen Shujun mood always perturbed.
+。
+.
+“好多学校把日常的教学从线下搬到线上，这是中国互联网发展20年从来没有碰到过的事情。
+"Many schools are moving their day-to-day teaching from offline to online, something China has never seen in its 20 years of Internet development.
+”。
+"
+2月12日，网课第三天，接受记者采访时，网络稳定性依旧是陈书俊的最担心的问题。
+Feb. 12, the third day of tennis classes, interviewed by journalists, network stability is still Chen Shujun's biggest concern.
+他告诉记者，这一周上网课的学生主要是初高中，下周各地小学、大学开学后，可能还会有一波洪峰。
+He told reporters that this week's online classes are mainly junior high and high school students, and next week when primary schools and universities around the world reopen, there may be a wave of flooding.
+。
+.
+网课期间，腾讯课堂偶尔遇到学生卡顿的问题，这与网络环境有关。
+During the course, Tencent occasionally encountered students in the classroom Carton problems, which is related to the network environment.
+这次网课，腾讯组织大量客服、志愿者培训老师，才发现很多人对电脑网络环境并不了解，“好多老师可能觉得在家里看视频不卡就叫网络好，但其实是完全不一样的概念。
+Tencent's network class, the organization's large number of customer service, volunteer training teachers, found that many people do not understand the computer network environment, "many teachers may feel at home to watch video card called the network good, but in fact is a completely different concept.
+”。
+"
+上线前，陈书俊主要精力用在和腾讯内部同事沟通，包括腾讯云、企业微信、腾讯会议等进行网络扩容和稳定，调动几百人资源及服务器，完成这场战役。
+Before going online, Chen Shujun focused on communicating with Tencent's internal colleagues, including Tencent Cloud, Corporate Micromail, Tencent Conference, etc., to expand and stabilize the network and mobilize hundreds of people and servers to complete the campaign.
+。
+.
+目前，腾讯课堂用户数获得了极大增长。
+At present, Tencent classroom users have been greatly increased.
+今年春节期间，使用腾讯课堂进行在线学习的师生人数，相比去年整体增长了近128倍。
+During the Spring Festival, the number of students and teachers using Tencent classroom online learning increased nearly 128-fold compared to last year.
+腾讯课堂APP升至AppStore教育榜第一名。
+Tencent classroom APP to the top of the AppStore education list.
+。
+.
+因为网课大涨的不仅是APP用户数。
+Because more than just the number of APP users.
+2月10日当天，国内上市在线教育公司，股价同样大涨。
+On Feb. 10, domestic-listed online education companies also saw their shares jump sharply.
+网易有道暴涨39.48%，股价再创上市新高，市值32.9亿美元。
+Netease jumped 39.48 per cent to a new high of $3.29 billion.
+英语流利说涨逾15%，正保远程教育涨超20%，51Talk涨超20%，好未来涨超3%。
+Fluent English rose more than 15%, distance education rose more than 20%, 51 Talk rose 20%, good future rose 3%.
+。
+.
+投资人任宁发现，因为全国孩子在家上网课，最近家用入门级娱乐类投影仪销量都有明显上升。
+Investment Ren Ning found that recently home entertainment projector sales have increased significantly because of children's online classes at home.
+“用户消费习惯，甚至是基础设施都有变化，”同时，由于市场推广和获客成本大幅降低，流量大幅增长，带来用户大增。
+"Consumer habits, even infrastructure, have changed," while traffic has grown dramatically as marketing and customer costs have dropped dramatically, adding significantly to the number of users.
+。
+.
+2020年春节后，在线教育板块成为开市以来，市场表现最强的几个板块之一。
+After the 2020 Spring Festival, the online education sector has become one of the strongest market performers since the start of the market.
+这个存在已久，却始终未有大突破的行业，也迎来了用户数最多，关注度最高的一个春天。
+This has been a long time, but has not been a major breakthrough in the industry, also ushered in the largest number of users, the highest attention of the spring.
+。
+.
+春天来了吗。
+Is spring here?
+今年疫情期间，在线教育成为风口。
+Online education became a bellwether during the epidemic this year.
+每一次全球性重大事件都会暗藏一些新机会，这一次，是不是在线教育的机会？。
+Every major global event hides new opportunities. This time, is it an opportunity for online education?
+这几天，不少学校和地区教委找到陈书俊，要求使用腾讯课堂上网课。
+In recent days, many schools and district education commissions found Chen Shujun, the use of Tencent classroom online classes.
+有地方教育局负责人使用后和他沟通提到，即使疫情过去，也可以继续考虑网课形式。
+The head of the local education department used to communicate with him mentioned that even if the epidemic past, you can continue to consider the form of online classes.
+。
+.
+“可能原来学校不太了解在线教育，不太了解线上授课到底是什么，只是道听途说，自己没有实操过。
+"It may be that schools don't know much about online education, or what online instruction is, but hearsay, they don't do it.
+由于这次突发事件，大家都进行了一定程度上的实操，我觉得这对于公立学校的教育信息化会有很大推动作用。
+As a result of this emergency, we all carried out a certain degree of practice, I think it will be public schools of education informatization will have a great impetus.
+”陈书俊说。
+"said Chen Shujun.
+。
+.
+在线教育经历多年的发展，已经有了成熟的运营模式，如在线1对1，小班课等。
+After years of development, online education has developed a mature business model, such as online 1-1, small classes and so on.
+苦于获客成本居高不下，始终未能走通最后一公里，未能诞生出用户稳定的大公司。
+Suffering from high customer costs, the company has been unable to reach the last kilometer and has failed to produce a large and stable user base.
+。
+.
+此次上亿人上网课，类似于一次全民在线教育免费普及。
+Hundreds of millions of people are taking classes online, similar to a free universal online education.
+2月11日中午，经过前一天手忙脚乱的尝试后，严瑾对网课流程开始熟悉。
+February 11 noon, after the previous day's hectic attempt, Yan Jin began to be familiar with the flow of net classes.
+她也调整了自己的心态，虽然依旧很累，但也是难得的和孩子相处的时光。
+She also adjusted her mentality, although still very tired, but is also a rare time with children.
+和孩子一起上网课让她感觉很神奇，“这么大一个小屁孩，她能和你一样通过APP去开电话会议，去接受这个社会带来的先进技术，这点我其实挺认同的。
+"It's amazing that she's having Internet lessons with her kids." I really agree with you that she can have a conference call with you through an APP to embrace the advanced technology that society brings.
+”一天半的网课结束后，她觉得，对于孩子的自我管理也是一个好的训练，“以现在孩子的心智，顶多再磨合一周，家长就不用这样时刻盯着了”。
+"After a day and a half of online classes, she felt that self-management was also a good exercise for children:" With a child's mind now, for a week at the most, parents don't have to keep an eye on them. "
+。
+.
+她甚至通过疫情期间的网课经历反思自己，“我们过去是不是太过度追求消费主义了，追求物质化了？如果国家GDP能速度慢一点，目标低一点点，让女性更多的回归家庭，这次的经历其实挺触动人心的。
+She even went so far as to reflect on her experience during the epidemic: "Were we too consumerist and materialistic in the past? If the country's GDP had slowed a bit, the goal had been a bit lower, and women would have been more likely to return home."
+”。
+"
+汪华依旧在忙碌的准备网课课件，她内心并不排斥网课，这次是因为突发情况，她同时负责的几个班级课程全部因网课调整，给她带来忙乱。
+Wang Hua is still busy preparing the net class courseware, her heart does not exclude the network lessons, this time because of unexpected circumstances, she is responsible for several classes are adjusted by the net classes, she brought confusion.
+如果是正常有准备，她相信网络授课会成为大趋势。
+If she was properly prepared, she believed that online instruction would be a big trend.
+。
+.
+Frost Sullivan报告称，在线教育用户规模庞大，成长空间可观。
+Frost Sullivan reports that online education users are large and have plenty of room for growth.
+在2020年的疫情环境影响下，在线教育企业受到的关注度达到了前所未有的地步。
+In the context of the epidemic's environmental impact in 2020, online education companies have received unprecedented attention.
+。
+.
+“现在的确是刚需，”任宁告诉记者，同时要注意的是，疫情过去之后的用户留存是个问题。
+"It's really just needed now," Ren told reporters, noting that user retention after the epidemic is over is a problem.
+目前，很多线下教育机构向线上转型，增加了更多抢夺线上用户的竞争者，这对各团队的运营和产品能力将是重大考验。
+Many of the offline institutions are now shifting online, adding more competitors to snatch online users, which will be a major test of teams' operational and product capabilities.
+（应采访对象要求，严瑾为化名）。
+(At the request of the interviewer, Yan Jin used an alias).
+版权声明：以上内容为《经济观察报》社原创作品，版权归《经济观察报》社所有。
+Copyright statement: The above is the original work of the Economic Observer, the copyright of which belongs to the Economic Observer.
+未经《经济观察报》社授权，严禁转载或镜像，否则将依法追究相关行为主体的法律责任。
+Without the authorization of the Economic Observer, it is strictly forbidden to reproduce or mirror images, otherwise the relevant actors will be investigated for legal responsibility.
+版权合作请致电：【010-60910566-1260】。
+For copyright cooperation, please call [010-60910566-1260].
+。
+.
+任晓宁经济观察报记者。
+Ren Xiaoning Economic Observer reporter.
+TMT新闻部记者。
+TMT Press Department.
+关注并报道TMT（科技、传媒、通信）领域重大事件，擅长行业分析、深度报道。
+Focus on and report major events in the field of TMT (technology, media, communications) and excel in industry analysis and in-depth reporting.
+。
+.
+联系邮箱：renxiaoning@eeo.com.cn。
+Contact mailbox: renxiaoning @ eeo.com.cn.
+微信号：457997197。
+Microsignal: 457997197.
+订阅。
+Subscriptions.
+分享。
+Share.
+新浪微博腾讯微博微信朋友网人人网。
+Sina Weibo tweets Tecent micro-blog friends network everyone.
+收藏。
+Collection.
+热新闻。
+Hot news.
+近13亿元捐款用于雷神山火神山医院 解密46 。
+Nearly $1.3 billion was donated to decrypt Mount Rushmore Hospital.
+一次“去全球化”压力测试——“新冠”疫情 。
+A "De-Globalisation" Stress Test: "New Crown" Epidemic.
+一位“驰援武汉”的货车司机：武汉还是那个 。
+A "help Wuhan" truck driver: Wuhan or that.
+快讯 | 王忠林任湖北省委委员、常委和武汉 。
+Wang Zhonglin is a member of Hubei Provincial Committee, Standing Committee and Wuhan.
+人事地震！朱新礼父女退出董事会 汇源果汁 。
+Personnel earthquake! Zhu Xinli father and daughter withdrew from the board Huiyuan juice.
+一家环保上市公司的复工首日：56%复工率， 。
+First day of resumption of work for an environmental listed company: 56 per cent return to work.
+血浆抗体治疗投入新冠肺炎临床 专家：有效 。
+Clinical Expert on Plasma Antibody Injection into Coronary Pneumonia: Effective.
+疫情下北漂族的返岗路：有人航班取消了四次 。
+The return journey of the northerners: some flights have been cancelled four times.
+透过“疫情”看物业管理行业的价值及应对困 。
+Through the "epidemic" to see the value of the property management industry and deal with difficulties.
+加码私募信披 中基协开辟投资者定向查询入 。
+Add the code of private equity in the Association to open investors directional inquiry into.
+1、疫情下的问候：你上网课了吗   。
+Greetings Under the Epidemic Situation Have you had any Internet classes yet
+2、远程办公被加速 写字楼市场短期承   。
+Telecommuting has been accelerated by the short-term commitment of the office market.
+3、钢厂电厂煤炭频频告急 山东能源集   。
+Steel Works Power Plant Coal Frequency Urgent Shandong Energy Set.
+4、企业复工：订单足够，缺的是人   。
+4, the enterprise resumes work: The order is enough, what lacks is the person.
+5、车载急救包、空气净化系统受追捧     。
+5, car first aid bag, air purifying system is sought after.
+6、在线生鲜催热“共享员工”，行业巨   。
+6, online fresh and hot "shared staff," the industry giant.
+7、教育行业的疫情防控：另一场“大考   。
+7. Prevention and control of disease in the education sector: another "big test."
+8、快讯 | 王忠林任湖北省委委员、常   。
+Wang Zhonglin is a member of Hubei Provincial Committee.
+9、中关村科技“抗疫”：程序员是如何   。
+9, Zhongguancun Science and Technology "Anti-epidemic": Programmer is how.
+10、快讯 | 湖北省委主要负责同志职务   。
+10. Express & # # 124; & # 44; Hubei Provincial Committee Chief Responsible for Comrades.
+视频推荐。
+Video recommendation.
+【BOSS说】向新而行：转换·觅机致敬创建者2019创新峰会。
+Move to New Ways: Hail the founder of the 2019 Innovation Summit.
+《广汽本田安驾必修课》——雨雾天气如何安全行车。
+Guanqi Honda Compulsory Course on Driving: How Safe to Drive in Rain and Fog Weather?
+【2019年终特别策划|00后，请出道】关于未来三问。
+At the end of 2019, please check out the next three questions.
+电子刊物。
+Electronic publications.
+点击进入。
+Click to access.
+地址：北京理工大学国防科技园2号楼4层。
+Address: 4 / F, 2 National Defense Science Park, Beijing Polytechnic University.
+邮编：100081 电话：4001560066 传真：86-10-88510872。
+Postal Code: 100081 Tel: 4001560066 Fax: 86-10-88510872.
+违法和不良信息举报电话：010-60910566 。
+Report on illegal and undesirable information: 010-60910566.
+举报邮箱：jubao@eeo.com.cn。
+E-mail: jubao @ eeo.com.cn
+Copyright @ 经济观察网 2001-2018。
+Copyright @ Economic Watch 2001-2018.
+京ICP备18019893号。
+Beijing ICP Preparation 18019893.
+京公网安备 11010802028547号。
+Beijing Public Security 110802028547.
+广播电视节目制作经营许可证 (京)字第12950号。
+Radio and television production and operation license (Beijing) 12950.
+增值电信业务经营许可证 B2-20196208。
+Value Added Telecom Business Licence B2-20196208.
+京网文（2019）4644-484号。
+Gwen Wen (2019) 4644-484.
+版权声明 Copyright。
+Copyright Statement Copyright.
+联系我们 Contact Us。
+Contact us at Contact Us.
+关于我们 About Us。
+About us About Us.
+友情链接 Links。
+Links to Links.
+经观招聘 EEO Jobs。
+Look for EEO Jobs.
+订购中心 Subscribe。
+Subscribe, ordering centre.
+广告刊例 Advertising。
+Advertising is an example.
+// 2018/4/2 删除“你可能还想看”栏目js。
+/ / 2018 / 4 / 2 Delete "You may also want to see" column js.
+if(confirm('请登录后再订阅'))。
+If (confirm; please login and subscribe to & apos;)).
+X选择其他平台 >>分享到。
+X has selected other platforms; & gt; shared.
