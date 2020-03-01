@@ -1,0 +1,174 @@
+旷视谢忆楠：火车站机场的AI测温是如何实现的？。
+Xie Yanan: How is AI temperature measurement achieved at the railway station airport?
+燃财经工作室。
+Burning Finance Studio.
+燃财经                      。
+Burning finance.
+燃财经。
+Burning finance.
+每天一篇深度报道，重新定义创新经济。
+A daily in-depth report redefining the creative economy.
+。
+.
+燃财经（ID:rancaijing）原创作者 | 金玙璠编辑 | 魏佳疫情突袭，让AI企业忙碌了起来，既要紧急研发抗“疫”产品，又要高效复工复产，还要权衡疫情给企业和行业带来的影响。
+Flaming Finance (ID: Rancaijing) An outbreak of Wei Jia Fan, the editor and chief engineer of Jinan Fan, has kept AI companies busy, both to urgently develop anti-epidemic products and to get back to work efficiently, weighing the impact of the epidemic on businesses and industries.
+旷视是其中更加特别的一员，一方面，经过十天连夜奋战上线的AI测温系统，正在增援公共场所的抗疫大战，另一方面，据此前媒体报道称，新冠疫情前旷视已经递交了上市申请文件，原计划在本月初招股，但因疫情所累，程序延缓。
+Absenteeism is one of the more unusual, on the one hand, after 10 days of fighting the AI temperature system on line, is reinforcing the fight against the epidemic in public places. On the other hand, according to former media reports, absenteeism prior to the outbreak of the new crown had filed for listing documents and had planned to raise shares earlier this month, but the epidemic delayed the process.
+近日港交所网页显示，旷视IPO申请为“失效”状态，旷视回应称，上市进程仍在正常推进中，正在更新材料。
+The HKEx website recently said the IPO application was "lapsed," with absenteeism responding that the listing process was still on track and updating material.
+2月27日，燃财经举办线上沙龙，主题聚焦“疫情之下AI行业有哪些新机会”，华创资本合伙人熊伟铭、旷视副总裁谢忆楠、快仓智能联合创始人孙宇分别进行了主题分享，并和燃财经总编辑贺树龙做了对话。
+On Feb. 27, 2008, Flaming Finance hosted an online salon focusing on "New opportunities for AI industry under the epidemic." Xiong Weiming, Huacheng Capital Partner, Xie Yangnan, Vice President of Kangkang Intelligence, and Sun Yu, co-founder of Quick Warehouse Intelligence, had a dialogue with Heshulong, chief financial editor.
+谢忆楠以“AI科技企业快速应对疫情的经验和挑战”为主题，介绍了旷视的抗“疫”AI测温系统在研发、应用中遇到的难点，以及旷视商业化战场的布局和规划。
+Based on the experience and challenge of AI technology enterprise to deal with epidemic situation quickly, Xie introduces the difficulty in research and development and application of anti-epidemic AI temperature measurement system, as well as the layout and planning of wide-sighted commercial battlefield.
+以下是谢忆楠的分享，经燃财经整理：AI测温是怎么实现的？AI一直被认为是继互联网之后的一个新的技术机会，不论是AI+还是+AI，前提是得先去解决问题，放到AI测温场景里也一样，首先要看遇到了什么问题。
+AI has long been recognized as a new technology opportunity after the Internet, whether AI + + or + AI, provided that the problem is solved first and then in an AI temperature measurement scenario, depending on what the problem is.
+现在已有的测温方式之一是额温枪测温，应用在人流量不大的公司、办公大厦场景；另外一种方式是红外线测温仪，包括手持式红外线测温仪和在线式全自动红外线测温仪，应用在人流大的火车站、机场等公共场所，但是手持式红外线测温仪通过人工筛查效率低，同时也将工作人员暴露在危险的境地，而在线式全自动红外线测温仪也有弊端。
+One of the existing methods of temperature measurement is the frontal temperature gun, which is used in company and office buildings with low traffic. The other is infrared thermometer, which includes hand-held infrared thermometer and on-line automatic infrared thermometer, which is used in public places such as railway station and airport.
+红外线测温仪的原理是，当人体的红外热辐射聚焦到检测器上，检测器把辐射功率转换为电信号，这个电信号在被补偿环境温度之后以温度为单位来显示，它可以同时测温100人，告诉你100人里有一人高温，但不能找出谁是高温者，而且也可能受部分因素影响测温准确度，比如人群刚离开室外低温环境，或手里拿着高温的食物等。
+Infrared thermometers work by focusing the body's infrared radiation on a detector, which converts radiant power to electrical signals, which can be measured in temperature after being compensated for ambient temperatures. It can measure 100 people at once, telling you that one in 100 people has high temperatures.
+很多人说AI是“拿着锤子找钉子”，在这次疫情期间，AI看到这个钉子，而且问题非常突出，这就是我们进场的原因，AI测温解决三件事：一，如何把被测温群体中的每个人的温度标注出来；二，在冬天大家暴露在外面的皮肤非常少，且佩戴口罩的情况下，如何找到有效测量体温的部位；三，当温度偏差比较大时，如何校准。
+Many people say AI is "holding a hammer to find nails." AI saw this nail during the outbreak, and the problem is very prominent. AI temperature measures three things: first, how to mark the temperature of each person in a temperature measuring group; second, how to find an effective body temperature measurement in winter when people are exposed to very little skin and wear masks; and thirdly, how to calibrate when the temperature deviation is large.
+旷视在AI识别方面一直做的是人体检测，这次我们把普通光学摄像机和红外温感摄像机结合成一体，我们叫它双光相机，这个改造后的硬件解决了第一个问题。
+Absenteeism has always been a matter of human detection in AI recognition. This time we combine ordinary optical cameras with infrared thermography cameras, which we call dual-light cameras, a modified hardware that solves the first problem.
+解决第二个问题，我们是先把口罩扫描出来，再快速通过口罩去定位额头的位置。
+To solve the second problem, we scan the mask first and then quickly locate the forehead through the mask.
+解决第三个问题需要一个提高测温精准度的标的，也就是黑体，但目前供应不足，旷视的应对方式是，通过算法达到即便无黑体也能保证人体测温的误差在±0.3℃。
+The third problem requires a target that increases the accuracy of temperature measurements, which is in bold, but is currently under-supplied. Absenteeism is addressed by algorithms that guarantee a human temperature measurement error of ± 0.3 degrees Celsius, even without the use of bold text.
+综上，在AI测温这件事上，旷视提供的是人脸检测算法、双光融合算法，以及去掉黑体的算法，带来的价值是，不再需要专门的测温员，也不再因为测温造成拥挤。
+In summary, in AI temperature measurement, absenteeism provides face detection algorithms, double-light fusion algorithms, and black-body-free algorithms, with the added value of eliminating the need for dedicated temperature watchers and crowding due to temperature measurements.
+旷视没有因为有算法平台就野心很大旷视的战略是“1+3”，“1”对应的是算法平台Brain++，希望把它做成AI时代的OS，目前的时间表是在今年3月底开源，提供给AI解决方案提供商；旷视没有因为有这个“1”就野心很大，因为AI是哪里都可以用到的，我们只做“3”大领域：个人物联网、城市物联网、供应链物联网。
+The strategy is "1 + 3," "1" corresponds to the algorithm platform Brain + +, hoping to turn it into an AI-era OS. The current schedule is open source by the end of March this year and is available to AI solution providers.
+个人物联网方面，以旷视目前在安卓手机里的应用举例，现在大家用手机拍照就可以拍得很漂亮，不是镜头的功劳，而是AI把不清晰的像素点、过曝点一一进行了优化。
+Today, people can take photos with their mobile phones. Not thanks to the lens, but because AI optimizes unclear pixels and exposure points.
+城市物联网方面的应用主要是楼宇。
+The use of urban Internet of Things is mainly in buildings.
+大家应该都有过拿着邀请码、邀请贴拜访大厦或园区的体验，通行效率很低且不安全，因此现在越来越多的场景采用刷脸进出，并不是因为这是高科技体验，而是确实能提高通行效率。
+Everyone should have had the experience of holding invitation codes, inviting people to visit buildings or parks, and traffic is inefficient and unsafe, so more and more scenes are now being used to move in and out, not because it is a high-tech experience, but because it does improve traffic efficiency.
+北京的中国尊现在用的是我们提供的解决方案，经过测试，比正常刷卡的效率大概提高了15%-20%，而且能够保证比较高的安全性。
+Beijing China now uses the solution we offer, which has been tested to increase the efficiency of a normal swipe by about 15% -20%, and ensures a higher level of security.
+供应链物联网方面主要就是物流解决方案。
+Supply chain networking is mainly about logistics solutions.
+比如旷视提供给零售店的虽然是一套视觉算法，但能通过数据分析出最挣钱的货品应该放在哪里，哪里的货品应该做促销，哪些货品应该从SKU里剔除掉，这个解决方案相当于给零售店提供了一个虚拟店长。
+For example, absenteeism provides retail outlets with a set of visual algorithms, but it is the equivalent of providing a virtual store manager to a retail store by analyzing where the most profitable goods should be placed, where goods should be promoted, and which items should be removed from the SKU.
+再比如旷视在仓储物流方面提供的解决方案。
+Another example is the solution provided by absenteeism in warehousing logistics.
+我们曾经进到某个企业北方最大的仓库里，当时是一月份，仓库内温度在零下十度左右，里面300多个工作人员，每个人推着一个大铁车搬运货物，工作人员告诉我们，一个人每天需要这样行进20公里，因此人工成本高，且岗位离职率高。
+We went to one of the largest warehouses in the north of the enterprise, in January, when the temperature was around minus 10 degrees, there were more than 300 staff members, each pushing a cart to carry goods, and the staff told us that one had to travel 20 kilometres a day, resulting in high labour costs and a high turnover rate.
+最终我们交付的方案是把工作人员换成近400个机器人，根据订单取货送货，仓库里只需保留两个人，这样的配置支撑着这个企业双11的交付，不但满足了正常正向流量，还应对了巨大的负向流量。
+Eventually we delivered a plan to replace staff with nearly 400 robots, deliver goods according to orders, keep only two people in the warehouse, a configuration that supports the delivery of the dual-11 enterprise, not only satisfying normal positive traffic, but also dealing with huge negative traffic.
+负向流量主要是指退换货，他们的工作人员告诉我，电商平台服装领域的退换货率在60%左右。
+The negative flow mainly refers to the return of goods, their staff told me that the electrical business platform apparel industry in the return rate of about 60%.
+旷视的“1+3”战略延续5年时间了，我们认为，算法一定要和硬件结合，而且是否具备通过AI改造现有的物流网设备的能力，是一个企业竞争力的核心。
+Absenteeism "1 + 3" strategy for five years, we believe that the algorithm must be combined with hardware, and whether or not the ability to adapt the existing logistics network equipment through AI is at the core of an enterprise's competitiveness.
+对话谢忆楠：任何技术都有到达峰值后先下降再回升的过程燃财经：疫情对旷视业务的影响有多大？旷视目前复工情况如何？预计业务全面恢复会在什么时候？谢忆楠：疫情之下，有很多相关场景突然就成熟了，包括所有因为疫情产生的非接触式的需求，而且这些需求即便在疫情之后也会变成一个趋势，这就是CV（计算机视觉）的大机会。
+Dialogue 1 Xie Yanan: Any technology has reached its peak before it goes back up again. How much impact does the outbreak have on absenteeism business? When is the resumption of full-blown business? Xie Yanan: Under the epidemic, many related scenarios have suddenly matured, including all the non-contact needs arising from the outbreak, and these needs will become a trend even after the outbreak.
+按照国家要求，旷视在上周（2月17日）就复工了，但因为“14天隔离期”以及对“一米间隔办公”的要求，只有一半的同事线下复工。
+According to the state, absenteeism resumed last week (Feb. 17), but only half of colleagues returned to work offline because of the "14-day isolation period" and the "one meter cutoff" requirement.
+燃财经：旷视在抗疫期间主要面临哪些挑战？旷视很多业务是有硬件配套的，疫情期间需求增长，怎么解决硬件供应链问题？你们完成了规模化交付吗？谢忆楠：首先的挑战在于我们要以互联网速度或者AI速度进入到一个陌生的供应链领域。
+What are the main challenges facing absenteeism during the fight against SARS? Many businesses have hardware support. How can we solve the hardware supply chain problem when the demand increases during the epidemic?
+疫情突发，我们要去找红外相机、找黑体等，这些之前都不在我们的列表中。
+The outbreak, we have to find infrared cameras, black bodies, and so on, all of which were not on our list before.
+第二方面挑战就是如何保障员工的安全，比如口罩的供应问题，提供风险更低的通勤方式等。
+The second challenge is to keep employees safe, such as supplying masks and offering less risky commuting options.
+有困难是必然的，现在绝大多数企业都是迎难而上，在产能不足的情况下想办法凑足产能。
+Difficulty is inevitable, now the vast majority of enterprises are struggling to meet capacity in the case of insufficient capacity to make up the full capacity.
+我们都是奔着规模化的产出去做的，目前已经在三到五个省市完成设备落地。
+We all made it to scale, and now we have equipment in three to five provinces and cities.
+燃财经：疫情期间，不少AI企业都推出了与旷视AI测温系统类似的产品，各家企业AI测温技术有何差异点？产品的成本、售价、主要客户群、可持续性是什么样的？谢忆楠：在疫情防控测温方面，最开始AI公司参与的不多，多是应用的传统设备，成本会很高。
+During the epidemic, many AI companies have introduced similar products to AI temperature measurement system for truancy. What are the differences between AI temperature measurement technology and cost, selling price, main customer group and sustainability? Xie Yangnan: When it comes to epidemic control and control, AI is not involved in temperature measurement.
+之后，我们参与进来，因为我们在AI领域里算法是比较领先的，于是做到了通过AI算法去解决无黑体测温，相当于把整个方案里1/3的设备成本砍掉了。
+Later, we got involved, because we were ahead of the AI algorithm, so we managed to solve the blackbody temperature measurement by AI algorithm, which is equivalent to cutting the cost of equipment by 1 / 3 of the whole scheme.
+我们认为客户群非常广泛，小区、社区、办公楼宇、学校、车站这些场所都需要应用，而且因为目前聚集性病例增多，最紧迫的事情就是体温筛查。
+We think the customer base is very wide, the community, office buildings, schools, stations, these sites need to be used, and because of the current increase in the number of cases of aggregation, the most urgent thing is temperature screening.
+现在和2003年非典时期不一样，很多动作规范之后很难再去磨灭，我认为非接触通行会成为刚需。
+Now, unlike the SARS period in 2003, it is difficult to erase many of the action codes. I think non-contact access will become a requirement.
+燃财经：疫情为AI技术的应用和落地提供了很多新场景，但也有人质疑，很多技术还是噱头居多、不够智能。
+Flammability Finance: The epidemic provides many new scenarios for AI applications and landings, but some question whether many technologies are still gimmicks and not smart enough.
+你认为这符合事实吗？谢忆楠：这可能不符合事实。
+Do you think this is true? Xie Yanan: It may not be true.
+站在行业里看，每个真正去做测试、开发的公司，很少有抱着蹭热度的心态去做，这段时间这些企业都是扛着疫情，在春节期间开发产品，如果只是作宣传用，没有必要这么做。
+From an industry perspective, few companies that actually test and develop do so with the heat of the moment, when they are carrying the epidemic and developing products during the Spring Festival, which is not necessary for propaganda purposes only.
+从需求角度看，测温是目前很多场景的刚需。
+From the demand point of view, temperature measurement is just needed in many scenes at present.
+燃财经：烧钱和亏损也是AI行业商业模式上最被诟病的一点，很多AI公司迟迟不能盈利，原因是什么？应该如何解决？未来三到五年，旷视最重要的“KPI”是什么？谢忆楠：我比较倾向于认为，任何一个技术都会到达一个峰值后往下降，然后再慢慢往上爬。
+Flaming Finance: Burning money and losing money is also one of the most critical aspects of the AI industry's business model. Why are many AI companies slow to make money? What should they do? What is the most important KPI for absenteeism in the next three to five years?
+我觉得所有AI企业或者AI技术都需要接受这个过程，谁能够第一个找到那个拐点就很重要，我们认为那个拐点就是产品化能力。
+I think all AI enterprise or AI technology need to accept this process, who can find that inflexion first is very important, we think that inflexion point is product ability.
+旷视未来三到五年最重要的，就是找到技术、算法应用的场景。
+The most important thing for absenteeism in the next three to five years is to find scenarios where technology and algorithms are applied.
+如果没有场景，没有产品，企业所做的事情只是技术的尝试，并不能落地，这也是很多公司为什么能在早期投入很多技术，做了很多测试就能享受红利，获得资本的回报，但是这种趋势在未来会慢慢往下走。
+If there is no scenario, no product, what the enterprise is doing is a technical experiment, not a landing, which is why many companies invest a lot of technology in the early stages, do a lot of testing and enjoy dividends and capital returns, but this trend will continue to slow down in the future.
+“产品第一”是疫情里学到的第一点燃财经：最近十分火爆的健身环，背后是体感技术，在这一方面，旷视有什么研究进展和落地应用？谢忆楠：体感技术在旷视叫骨骼识别，我讲两个潜在的落地应用。
+"Product First" is the first lesson learned from the epidemic: Recently, the very hot fitness ring, behind the somatic technology, in this regard, what are the research progress and application of absenteeism? Xie Yanan: The somatosensory technique is called bone recognition. I'm talking about two potential landing applications.
+其一是在体育赛事上，跳水、体操运动员的动作打开度，以前都是通过裁判的主观描述，现在可以通过这个技术对运动员的姿势进行评判。
+The first is in sports events, diving, gymnasts movement open, previously through the subjective description of the referee, can now be judged by this technology.
+其二就是体感游戏机，很多游戏机都是通过穿戴的游戏手柄去感应，影响用户跑步、抡臂等动作，目前我们在尝试去掉游戏手柄，通过摄像头就可以捕捉并模拟人的动作。
+The second is the somatic game console, which uses the joystick to sense the movements of the user, such as running and swinging his arms. We are trying to remove the handle of the game and capture and simulate human motion through a camera.
+燃财经：去年以来，外界对AI技术在某些领域应用的争议较多，你认为应该如何在商业化进程中有效保护隐私问题？谢忆楠：这个问题非常有价值，这也是为什么旷视在做业务的同时发布了“应用准则”。
+Flaming Finance: Since last year, there has been a lot of controversy over the application of AI technology in some areas. How do you think it should be effectively protected in the commercialization process? Xie Yanan: It's a valuable question, and that's why absenteeism, while doing business, issues "application guidelines."
+任何一个技术在应用过程中都是牺牲了一部分隐私的，原来大家交流基本靠吼，找人基本靠狗，现在可以通过很多方式找到想找的人，任何一个技术在应用过程中都会给行业带来一些变化，这个变化是需要技术本身、用户、国家三方有一个握手的。
+Any technology in the process of application is sacrificing some privacy, the people basically rely on roar, find a basic dog, can now find the people in many ways, any technology in the application process will bring changes to the industry, this change requires the technology itself, users, countries have a handshake.
+我觉得首先要做的是，先正视这些问题，且用公正的态度去授权。
+I think the first thing to do is to look at these issues first and empower them in a fair manner.
+因此企业首先需要有一套约束自己的标准，其次联合国家、用户一起来推动标准的产生，企业应该冲在前面，让大家能够看到这个问题。
+Therefore, enterprises need to have a set of self-restraint standards, and then United Nations, users together to promote the emergence of standards, enterprises should be in the front, so that everyone can see the problem.
+燃财经：很多公司创始人都是软件背景，但随着公司发展，很多产品需要软件硬件结合，这样供应链也变得复杂，旷视怎么解决创始成员适应阶段性管理问题？旷视有没有踩过坑，能不能分享一下？谢忆楠：没有任何一家企业在创业过程中能够一帆风顺，肯定都要踩坑，如果连踩坑的勇气都没有，那在AI行业里可能也没有太好的发展前景。
+Founders of many companies have software backgrounds, but as companies grow, many products need to combine software and hardware. How does absenteeism solve the problem of founding members adapting to periodic management?
+如果你走着走着发现没有坑，就像打游戏没有怪，创业路上没有竞争者，那一定是你走错方向了。
+If you walk along and find that there are no pits, it's just like playing games. There are no competitors on the road, you must be heading in the wrong direction.
+我们这一波AI企业是一个前无古人的发展方式，商业模式往前看没有一个标准答案，所以AI企业只能自己往前一步一步趟。
+Our AI enterprise is an unprecedented development, business model forward without a standard answer, so AI enterprises can only take a step forward.
+燃财经：对于旷视而言，受疫情所累上市暂缓，同时也得到了更多展现业务的机会，团队内部如何看待疫情带给公司发展和战略上的变化？长远来看，疫情会给AI行业带来哪些变化？谢忆楠：现在大家的算法更多的是存在于服务器、云端，有没有能力把AI写到每一个设备里，我觉得这对于企业而言是需要真正思考的。
+Flaming Finance: For absenteeism, listed by the epidemic is suspended, but also has more opportunities to show the business, how does the team view the changes in the company's development and strategy in the long run? Xie Yangnan: Now we have more algorithms on servers, clouds, and the ability to write AI into every device.
+这次疫情告诉AI行业里更多人需要静下心来练习内功，比如你的AI算法能不能和目前现在成熟的物联网设备，摄像头、开关感应器、门禁、闸机等，进行连接或者其他形态上的改变，这是非常重要的。
+The epidemic has taught more people in the AI industry that it is important that more people in the AI industry take time to practice inner work.For example, it is important that your AI algorithms be connected to current and sophisticated Internet of Things devices, cameras, switch sensors, gates, sluices, and so on.
+旷视提出“产品第一”，我们认为这是一个企业在这次疫情期间要首先要学习的。
+Absenteeism put forward "product first," we think this is an enterprise in this epidemic period to learn first.
+*“创新经济战疫计划”相关的深度报道和沙龙实录可点击公众号菜单“战疫计划”阅读。
+:: "Innovative Economic Plague Program "-related in-depth coverage and Sharon's live footage can be read on the public number menu" Plague Program. "
+你最希望AI应用到哪个领域？欢迎在评论区留下你的评论，原创文章转载请点击公众号菜单“转载合作”。
+Where do you want AI to be applied? Please leave your comments in the comments section. For original articles, please click the Public Number menu "Reprint Cooperation."
+一手资讯/硬核报告/每日红包/线下活动！就差你了！快加微信rancaijing02回复“读者”一键上车！。
+First-hand information / hardcore reports / daily red packets / offline activities! Not for you! Add micro-mail Rancaijing02 reply "Reader" to get on the bus!
+燃财经工作室。
+Burning Finance Studio.
+点个在看吧😘。
+Check it out.
+信扫一扫赞赏作者。
+The letter swept over the author.
+点个在看吧😘。
+Check it out.
+发送到看一看 。
+Send it to see.
+旷视谢忆楠：火车站机场的AI测温是如何实现的？。
+Xie Yanan: How is AI temperature measurement achieved at the railway station airport?
+长按识别前往小程序。
+Long press identify to go to the applet.
+var _ori_article_type = "科技互联网";。
+var _ ori _ article _ type = & quot; & T & T & T;;
+var nickname = "燃财经";。
+Var nickname = & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot;
+var msg_title = "旷视谢忆楠：火车站机场的AI测温是如何实现的？";。
+Var msg _ title = & quot; & quot; & quot; & quot; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45;
+var msg_desc = "任何技术都有到达峰值后先下降再回升的过程。
+var msg _ desc = & quot; any technology has had a tendency to decline and then rebound after peaking.
+";。
+;; & quot;
+title: '疫情之下，哪些行业正在逆势爆发？',。
+What industry has AT & amp; apos; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45;
+subject_name: '燃财经',。
+subject _ name: & apos; & quot; & quot; & quot; & economics & amp; economics & apos;
+title: '网上卖房，噱头？',。
+& quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot;.
+subject_name: '燃财经',。
+subject _ name: & apos; & quot; & quot; & quot; & economics & amp; economics & apos;
+title: '小游戏，过了个好年',。
+At & quot; game & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot;
+subject_name: '燃财经',。
+subject _ name: & apos; & quot; & quot; & quot; & economics & amp; economics & apos;
+title: '裁员这笔账，应该怎么算？',。
+What should have been AT & nbsp; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45;
+subject_name: '燃财经',。
+subject _ name: & apos; & quot; & quot; & quot; & economics & amp; economics & apos;
+var title ="燃财经";。
+Var title = & quot; & quot; & quot; & quot; & quot; & finance & quot;

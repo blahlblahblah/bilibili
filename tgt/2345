@@ -1,0 +1,402 @@
+“世界工厂”富士康复苏记 - 经济观察网 － 专业财经新闻网站。
+The World Factory Foxconn Resuscitation - Economic Watch - Professional Finance News Web site.
+window.open (now_url, "优酷弹窗", "height=300, width=400, left=450, top=180, toolbar =no, menubar=no, scrollbars=no, resizable=no, location=no, status=no");。
+window.open. (now _ url, & quot; cool bullet & quot; & quot; light = 300, fifth = 400, left = 450, top = 180, toolbar = no, menubar = no, scrollbars = no, responsible = no, position = no, status = no, status = no & quot;);
+您好  退出。
+Good morning.
+激活卡。
+Activate the card.
+电子版。
+Electronic version.
+激活卡。
+Activate the card.
+电子版。
+Electronic version.
+注册。
+Registration.
+登录。
+Login.
+首页。
+Home page.
+商业产业。
+Commercial industry.
+财经。
+Finance.
+地产。
+Real estate.
+汽车。
+Automobiles.
+评论。
+Comment.
+视频。
+Video.
+研究院。
+Graduate School.
+用户名登录/手机号登录。
+User name login / cell phone number login.
+还没有账号？免费注册。
+No account number? Free registration.
+忘记密码？。
+Forget the code?
+忘记密码？。
+Forget the code?
+登 录。
+Registration.
+关闭。
+Closed.
+$('#al_warn2').text('*请输入手机号');。
+$(& apos; # al _ warn2 & apos;) .text (& apos; * please enter phone number & apos;);
+$('#al_warn2').text('*请输入验证码');。
+$(& apos; # al _ warn2 & apos;) .text (& apos; * please enter a certificate number & apos;);
+var getRequest = true; // 是否请求验证码。
+var getRequest = true; / / Whether or not to request a authentication code.
+$('#al_warn2').text('*请输入手机号');。
+$(& apos; # al _ warn2 & apos;) .text (& apos; * please enter phone number & apos;);
+$('#mobile_send1').val(--waitTime +'重新获取');。
+$(& apos; # mobile _ send1 & apos;) .val (- wait Time + & apos; Re-acquired & apos;);
+$('#mobile_send1').removeClass('disable').css('cursor','pointer').attr('disable', '').val('重新获取');。
+$(& apos; # mobile _ send1 & apos;) .removeClass (& apos; disable & apos;) .css (& apos; cursor & apos;, & apos; & P & apos;) .attr (& apos; disable & apos; & P; & apos; & P; & P; & P; & P; & P; & P; & quot; & quot; & apos; & quot; & apos; & quot; & apos; & quot; & apos; & quot; & apos; & quot; & apos; & quot; & apos; & quot; & apos; & quot; & apos; & quot; & apos; & quot; & apos; & quot; & apos; & qu
+var author="沈怡然";。
+Var auther = & quot; Shen Yi-yun;;;
+“世界工厂”富士康复苏记。
+Resuscitation of Foxconn "The World Factory."
+沈怡然2020-02-27 20:36。
+Shen Yee-yan 2020-02-27 20: 36
+扫描二维码分享到朋友圈。
+Scanning two-dimensional code to share with friends.
+经济观察网 记者 沈怡然 宋笛 2月20日，刘雨（化名）返岗第一天。
+Economic Observation Network reporter Shen Yi-ran Song Di Feb. 20, Liu Yu (alias) back to work on the first day.
+。
+.
+空旷的食堂，暂停的娱乐设施和园区公交车不断提醒他，这是一个和往常截然不同的富士康。
+The empty canteen, the suspended entertainment facilities and the park bus were a constant reminder that this was a very different kind of Foxconn.
+。
+.
+刘雨是工业富联下属公司一名工程师，在深圳龙华厂工作。
+Liu Yu is an engineer of a subsidiary company of FIU. He works in Longhua Factory in Shenzhen.
+在刘雨的眼中，富士康是一家强大的公司，其强大并非仅依靠劳动力的低成本优势，也有高科技的提升，但直到疫情来了，他才觉得以普通工人作为基础的代工依旧是富士康的本色。
+In Liu's eyes, Foxconn was a powerful company, strong not only by the low-cost advantages of labor, but also by high-tech, but it was not until the epidemic came that he felt that the average worker-based contractor was still the norm for Foxconn.
+。
+.
+富士康，这座在全球拥有百万工人的世界工厂正在复苏中。
+Foxconn, the world's workshop of one million workers, is recovering.
+。
+.
+富士康科技集团郑州科技园（以下简称郑州富士康）内一个旺季拥有超过7万人的事业处，如今复工人数尚在五千多人。
+Foxconn Technology Group Zhengzhou Science and Technology Park (hereinafter referred to as Zhengzhou Foxconn) has a peak of more than 70,000 jobs, and the number of people returning to work is still more than 5,000.
+按照一个员工粗估，另一个以主板生产为主的事业处复工人数，大约是五分之一。
+According to a rough estimate by one employee, about one-fifth of the workforce has returned to work in another enterprise dominated by motherboard production.
+河南本地媒体2月27日的报道，富士康郑州园区正式复工以来，目前出勤员工4万多人——在2013年这座工厂的总员工人数就超过了30万。
+More than 40,000 people have been on duty at the Foxconn Zheng State Park since it formally restarted work, with more than 300,000 employees in the plant in 2013, local media reported Feb. 27.
+。
+.
+富士康正在用各项激励政策推动复工的进度，2月25日，富士康称邀请了钟南山担当防疫及复工总顾问。
+Foxconn is using incentives to get back to work, and on February 25, Foxconn said it had invited Zhong Nan Shan to act as its chief adviser.
+。
+.
+对此，刘雨称，目前员工的防疫措施和流程没变，内部会议也未提起钟院士的指导，“应该是为了安稳人心吧”。
+In response, Liu said that the current staff of anti-epidemic measures and procedures, internal meetings did not mention the guidance of academicians, "should be for the security of the people.
+。
+.
+富士康曾有24小时开一副模具的记录，印证了它强大的制度、人力、供应链，这也建立于庞大的劳动力和昼夜不息的工厂，一个广为引用的数据称，郑州富士康产出了全球近一半的苹果手机。
+Foxconn has a 24-hour mold record, confirming its strong system, manpower and supply chain, which is also built on a vast workforce and around the clock factories, with Foxconn in Zhengzhou producing nearly half the world's Apple phones, according to a widely cited figure.
+。
+.
+2月20日，富士康在一份公告中表示，中国大陆主要厂区的复工进度会较为谨慎，对于全年营收确实会有负面影响。
+On Feb. 20, Foxconn said in a statement that the resumption of major factories in mainland China would be more cautious and would indeed have a negative impact on annual revenue.
+。
+.
+第一手机界研究院院长孙燕飚对经济观察报表示，自2018年出现库存问题后，苹果开始缩短备货周期，有的品类会缩短至提前2-3个月备货，春节后正是备货周期，而对低端机的iPhone9，苹果的订单量远远大于旗舰机，甚至达到百万级规模，这更显出供货矛盾。
+Since 2018, when inventory problems began, Apple has begun shortening its lead times to two to three months in advance, said Sun Yan-biao, director of the No. 1 Mobile Phone Research Institute, told the Economic Observer.
+。
+.
+每周都能进一批人。
+There are people coming in every week.
+刘雨是第二批复工的人员，深圳第一批员工在2月13日前后复工。
+Liu Yu was the second group of reinstated workers. Shenzhen's first employees returned to work around February 13.
+。
+.
+按照刘雨所述，目前深圳厂的员工，除了湖北和河南的，其他省份的大部分基本上都到了深圳，但全部处于隔离期状态。
+According to Liu, most of the employees in Shenzhen, except Hubei and Henan, are now in Shenzhen, but all of them are in quarantine.
+深圳厂区的复工节奏很快，深圳龙华厂基本上每周都进一批人，包括返岗人员或新员工。
+The pace of the resumption of work in the Shenzhen plant is fast, and the Shenzhen Longhua plant basically brings in a group of people every week, including returning workers or new employees.
+。
+.
+据刘雨了解，隔离员工住在富士康统一安排的旅馆内，5人一间，一般情况下，富士康公寓普工是8人一间，工程是4人一间。
+According to Liu Yu, the isolation staff live in a hotel arranged by Foxconn, five people a room, usually, Foxconn apartment universal workers is eight people a room, the project is four people.
+。
+.
+“如果按照百万员工的工厂来看，目前复工的速度已经挺快了”，刘雨表示。
+"If we look at factories with millions of employees, the rate of return to work is already quite fast," Liu said.
+。
+.
+从2月17日开始计算，郑州富士康复工已有近一周半的时间了，但江涛（化名）所在事业处，到岗人数不足10%。
+Since Feb. 17, Foxconn in Zhengzhou has been back to work for nearly a week and a half, but Jiang Tao (not his real name) works in the branch, less than 10% of the total number of posts.
+。
+.
+江涛所在的机构件事业处主要生产数码产品的后壳组件，目前复工人员大约为5500多名，而在旺季时期，此事业处的员工有7、8万人。
+Jiang Tao's agency, which produces mainly back-shell components for digital products, now employs about 5,500 workers, compared with 70,000 or 80,000 during peak seasons.
+而他也是未上岗员工之一，被要求每天报告自己的健康状况以及是否与疫区人员接触。
+He was also not on duty and was asked to report daily on his health and whether he was in contact with people in the affected areas.
+。
+.
+2月20日，富士康发布公告称，受疫情影响，该公司在保护员工安全为第一优先、复工流程合法合规的原则下，中国大陆主要厂区的复工进度会较为谨慎。
+On February 20, Foxconn issued a statement saying it would be prudent to resume work at major factories in mainland China because of the impact of the epidemic, which made the safety of its employees a top priority and the resumption of work processes legal and compliant.
+。
+.
+“看到奖金立即启程”。
+"Start at once at the bonus."
+“有史以来最高奖金，快来推荐、报名吧！”。
+"The highest prize ever, come and recommend it, sign up!"
+一款名为“我要聘”的App上，每日滚动着数十条招募消息，这是富士康iDPBG事业群专门用于人才招募的。
+On an App called "I Want to Recruit," dozens of recruitments scroll around every day, and the Foxconn iPBG business group is dedicated to talent recruitment.
+App上显示，员工内部推荐有奖金、离职返聘有奖金，连推荐自己都有奖金。
+On the App, employees are recommended for bonuses, rehiring from work, and even recommended for themselves.
+。
+.
+为加速复工，尤其是普工，富士康的招工奖金一路攀升。
+Foxconn's job-hunting bonuses have risen to speed up the resumption of work, especially among workers.
+。
+.
+根据“我要聘”App，2月27日，郑州厂iDPBG奖励再一次加码，内部推荐奖金共计6750元，离职返聘奖金、推荐自己，最高奖金5250元；深圳厂iDPBG奖励升级，只要员工在3月31日前入职，无论入职、返聘，最高可得6750（入职满60天奖励4250，入职满90天再奖励2500）。
+On Feb. 27, Zhengzhou factory iDPBG awards were increased once more, with internal recommendations totaling $6,750, severance pay-back bonuses and referrals up to $5,250. Shenzhen factory iDPG rewards promotions of up to 6,750 (4 250 days after entry on duty and 2 500 after 90 days of service).
+。
+.
+2月20日，刘洁（化名）看到奖励是3000元，至26日涨了一倍。
+On Feb. 20, Liu Jie (not her real name) saw the prize at 3,000 yuan, and by the 26th it had doubled.
+她曾是富士康庞大临时工群体的一员，曾在富士康深圳厂区做过手机产线，常年流动在深圳的工厂之间，哪里的工价高就去哪里。
+A former member of Foxconn's large group of temporary workers, she worked as a cellphone manufacturer at Foxconn's Shenzhen plant, moving from factory to factory in Shenzhen all year round.
+。
+.
+她说，和平时相比，富士康这次的待遇算是非常丰厚了，办理速度也很快，政策刚一公布，深圳观澜厂区就已经有报名人员接到通知，去招募中心做核酸检测了。
+She said Foxconn's treatment was' very generous' compared to normal times, and the processing speed was quick. As soon as the policy was announced, candidates from the Guanlan factory in Shenzhen had been notified to go to the recruitment center for nucleic acid testing.
+。
+.
+刘洁身边好多曾在富士康做临时工的人，都在讨论奖金。
+Liu Jie around a lot of people who used to work as temporary workers in Foxconn, are talking about bonuses.
+有的已经报名了，她的一位远在江西的朋友，看到奖金立即启程，再回深圳富士康。
+Some have signed up, one of her friends in Jiangxi, saw the bonus start immediately, and then returned to Shenzhen Foxconn.
+。
+.
+这还不足以吸引她。
+It wasn't enough to appeal to her.
+她打算观望到3月，看看工价能不能再涨一些。
+She was going to wait till March to see if the wages would go up any more.
+据她观察，围绕深圳地区的工厂都在招人、抢人。
+She observed that factories around Shenzhen were hiring and robbing people.
+富士康的政策出来后，另外几家给出的工价也上涨了，她等待更好的机会。
+After Foxconn's policies came out, several other wages rose, and she waited for a better chance.
+。
+.
+与工人相比，工程师的奖励反而更低一些。
+Engineers are less rewarded than workers.
+。
+.
+“缺一个普工就开不起一条线，但是缺几个工程人员关系不大”。
+"Without a generalist, one cannot drive a line, but the lack of a few engineers does not matter."
+刘雨说，虽然复工奖励惠及全体，但是相对来说普工奖励金额更多，甚至是丰厚的，而在工程人员方面的奖励则不然，他们笑侃“就是一天的饭钱”。
+While the incentives for returning to work benefit everyone, they are relatively more generous, or even generous, than those for engineers, who joke that "a day's meal," Liu said.
+。
+.
+供应链难题。
+Supply chain dilemma.
+工人仅仅是整个产线动起来的第一步，在富士康背后，那个庞大复杂的供应链是否能够同时启动，成为了另一个难题。
+Workers are only the first step in the entire production chain, and behind Foxconn, whether that vast and complex supply chain can start at the same time is another challenge.
+。
+.
+2月26日，记者以投资者身份致电富士康的供应商胜宏科技。
+Feb. 26, the reporter called Foxconn's supplier Shenghong Technology as an investor.
+其董秘办人士表示，受员工复工限制，公司只能恢复60-70%的产能。
+Its secretary-general said the company could only restore 60-70 per cent of its capacity because of restrictions on workers returning to work.
+这家公司生产高精密度印制线路板，可用于智能手机，公司已经通过苹果认证，进入富士康-苹果的供应体系。
+The company makes high-precision printed circuit boards that can be used on smartphones and has been certified by Apple to enter the Foxconn-Apple supply system.
+。
+.
+该人士称，目前对富士康只能维持60-70%的供应程度，并预计，情况会在3月初得到缓解，因为部分员工将度过隔离期。
+The person said the company is only able to maintain a 60-70 per cent supply and expects the situation to ease in early March as some employees pass the quarantine period.
+。
+.
+第一手机界研究院院长孙燕飚表示，在智能手机领域，富士康的上游供应链基本固定，因为它的所有供应商都需要经过苹果认证，甚至是由苹果挑选的。
+In smartphones, Foxconn's upstream supply chain is basically fixed because all of its suppliers need to be certified by Apple, or even selected by Apple, says Sun Yan-Biao, dean of the first mobile-phone research institute.
+即便是疫情特殊情况，代工厂也无法自行更换体系外的厂家。
+Even under special circumstances, the factory cannot change the factory outside the system by itself.
+。
+.
+供应商的供应节奏很快，几乎每日都需要供应，所以物流不畅通，也是限制两者流动的重要原因。
+Lack of logistics is also an important factor limiting the movement of suppliers, which are supplied at a fast pace and need to be supplied almost daily.
+孙燕飚认为，相对于员工短缺，供应问题更多是疫情下大环境决定的，只有等到制造业的恢复、物流的恢复。
+'Compared to the shortage of staff, the supply problem is more determined by the circumstances of the epidemic, 'Mr. Sun said,' waiting for the recovery of manufacturing and logistics.
+。
+.
+同时，他预计，按照目前供应商水平，帮助富士康实现百万产能问题不大，对于苹果千万级的大单，只能分阶段小批量供应。
+At the same time, he predicts that helping Foxconn achieve million-dollar capacity at current supplier levels won't be a big problem, with only a small, phased supply of Apple's multimillion-grade orders.
+。
+.
+追赶进度。
+Catching up progress.
+对于已经复岗的工人，如今的富士康正进入一种临时的状态：大家都离开了原有岗位，哪里需要就会像去哪个岗位。
+For the workers who have been reinstated, Foxconn is now in a temporary position: everyone leaves their jobs and goes where they need them.
+。
+.
+何时能够从这种临时状态转换到全面开工尚不可知。
+It is not yet known when the transition from this temporary status to full-scale construction will take place.
+。
+.
+江涛判断，如果能在3月完成复工，目前被耽搁的生产任务还能追的上来。
+Jiang Tao judges, if can finish restarting work in March, the production task that is currently delayed can still catch up.
+。
+.
+上半年一贯是富士康的淡季，旺季从6月开始，届时，所有产线全速运转。
+The first half of the year has been a slack season for Foxconn, with all production lines running at full capacity, starting in June.
+到9月，当苹果公司CEO库克在苹果秋季新品发布会中向全世界展示新一代苹果手机的时候，数百万成品已经在仓库中严阵以待。
+By September, when Apple CEO Cook showed the world a new generation of Apple phones at Apple's fall launch, millions of finished products were already in storage.
+。
+.
+据江涛测算，一季度的生产量大约在全年占据10%-15%。
+According to Jiang Tao estimates, the first quarter of production in about 10% to 15% of the year.
+以后壳生产为例，2017、2018年3、4月份后壳每天可生产2万个，员工上5天休2天；而进入后半年的旺季，后壳每天生产每天可以达到20万个，最少上6天休1天。
+In the case of shell production, for example, 20,000 shells could be produced per day in March and April 2017 and employees could take two days off for five days; in the high season of the second half of the year, the hulls could produce 200,000 a day for at least six days.
+。
+.
+但是今年的情况可能有所变化，孙燕飚表示，自2018年苹果在iPhonex和iPhone8出现了很大库存问题后，开始缩短备货周期，相比以前提前半年，现在改为提前2-3个月备货。
+But things may change this year, and Mr. Sun says the lead time has been shortened since 2018, when Apple ran large inventory problems with iPhone and iPhone 8, moving to two to three months earlier than before.
+。
+.
+在孙燕飚看来，如果按照苹果原来的策略，即大部分采购集中在春节前完成，就不容易产生供货问题，反倒是现在的策略下，更显出供货矛盾。
+If Apple's original strategy of concentrating most of its purchases before the Spring Festival is over, it won't be easy to generate supply problems, according to Mr. Sun.
+。
+.
+此外，富士康的客户结构也在出现变化，开始更多服务于华为、小米等国产手机品牌，疫情情况下，下游手机厂商也会备货更为灵活、谨慎，国产手机几家大厂也出现了“少食多餐”的特殊现象，导致了富士康需要更加灵活地应对国内订单，这意味着公司要比平时掉配更多人力。
+In addition, Foxconn's customer structure is also changing, starting to serve more domestic brands such as Huawei and millet. In the face of the epidemic, downstream handset manufacturers will also be more flexible and cautious.
+。
+.
+“现在的问题是，疫情下复工有问题，同时终端厂家需求不太确定，需求来了，就会很急”， 孙燕飚表示。
+"The problem now is that the resumption of work under the epidemic, the end manufacturers demand is not so sure, demand will come, will be very urgent," said Sun Yan.
+。
+.
+（应采访对象要求，刘雨、江涛、刘洁为化名）本文经「原本」原创认证，作者经济观察报，访问yuanben.io查询【1DR02PGN】获取授权信息。
+(At the request of the interviewee, Liu Yu, Jiang Tao, Liu Jie as aliases) This article is based on "original" original certification, the author of the Economic Observer, visit yuanben.io [1DR02PGN] for authorization information.
+。
+.
+版权声明：以上内容为《经济观察报》社原创作品，版权归《经济观察报》社所有。
+Copyright statement: The above is the original work of the Economic Observer, the copyright of which belongs to the Economic Observer.
+未经《经济观察报》社授权，严禁转载或镜像，否则将依法追究相关行为主体的法律责任。
+Without the authorization of the Economic Observer, it is strictly forbidden to reproduce or mirror images, otherwise the relevant actors will be investigated for legal responsibility.
+版权合作请致电：【010-60910566-1260】。
+For copyright cooperation, please call [010-60910566-1260].
+。
+.
+沈怡然经济观察报记者。
+Shen Yilan Economic Observer reporter.
+大科创新闻部记者。
+Department of Public Information.
+关注硬科技领域，包括机器人及人工智能、无人机、虚拟现实（VR/AR）、智能穿戴，以及新材料领域。
+Focus on hard technology, including robotics and artificial intelligence, drones, virtual reality (VR / AR), smart wear, and new materials.
+擅长企业深度报道及上市公司分析报道。
+Good at in-depth corporate reporting and listed company analysis report.
+发现前沿技术、发展趋势投资价值。
+Discover cutting-edge technology, development trend of investment value.
+。
+.
+订阅。
+Subscriptions.
+分享。
+Share.
+新浪微博腾讯微博微信朋友网人人网。
+Sina Weibo tweets Tecent micro-blog friends network everyone.
+收藏。
+Collection.
+热新闻。
+Hot news.
+【独家】北京知名连锁药店康佰馨公司董事长 。
+Exclusive: The chairman of Beijing famous drugstore chain Kang Bai Xin Company.
+美股三日狂泻两千点 新冠疫情笼罩全球市场  。
+U.S. stocks shrouded global markets with a two-thousand-point outbreak in three days.
+创业板跌超4% 有公募调仓：止盈科技股转投 。
+Growth Enterprise Market fell below 4% of the public offering positions: Zhiying technology stocks converted.
+美股暴跌10%释放危险信号 疫情之下市场风险 。
+US Stocks Plunged 10% Releases Market Risk of Dangerous Signals Outbreak.
+外资还想来中国买买买吗？ 。
+Does foreign capital still want to buy in China?
+“技术乌托邦”猜想：一场2.76亿人的线上迁 。
+"Technological Utopia" conjectures: an online migration of 276 million people.
+vivo 发布APEX 2020  以黑科技定义5G手机“ 。
+Vivo releases APEX 2020 to define 5G mobile phones by Blacktech.
+深圳野生动物禁食条例征求意见 这些动物被 。
+Shenzhen Wild Animal Fasting Regulations ask these animals to be fasted.
+上市药企年报业绩分化：4家净利翻倍，4家下 。
+Annual report of listed pharmaceutical enterprises differentiated results: 4 net profit doubled, 4 under.
+凯德集团董事会和高管层自愿降薪 经理级及 。
+Cade Group board and top management voluntary pay reduction managers and.
+1、“技术乌托邦”猜想：一场2.76亿人   。
+1. "Technological Utopia" conjecture: a 276 million people.
+2、“世界工厂”富士康复苏记   。
+The World Factories Foxconn Resuscitated.
+3、不止锅圈融到钱 一周内5家产业互联   。
+More than the pot ring into the money in a week 5 industries interconnected.
+4、直播培训师：线下品牌如何打造导购   。
+4. Live Trainer: How to build an offline brand?
+5、科技股估值攻势“中断” 公私募调   。
+Technology stocks valuation offensive "interrupted" public private placement.
+6、上市药企年报业绩分化：4家净利翻   。
+6, listed pharmaceutical enterprises annual report performance differentiation: 4 net profit turn.
+7、九龙仓大股东会德丰私有化落定 午   。
+7, Kowloon Cang Da shareholders meeting Defeng privatization set for noon.
+8、中国蝴蝶扇动了一下翅膀：全球原料   。
+The Chinese butterfly flapped its wings: Global raw materials.
+9、紫光、台积电谈6nm芯片工艺：没有2   。
+9, violet light, TSMC talk about 6 nm chip process: No 2.
+10、制造业复工进行时 数字化转型成果   。
+10. Digital transformation of manufacturing industry when it resumes operation.
+视频推荐。
+Video recommendation.
+【脉搏金融】科技公司+区块链，都碰撞出了怎样的火花？。
+Pulse Finance: What kind of sparks does technology company + block chain collide with?
+【城观】纪实片：疫境求生—小微企业和个体户的痛与自救。
+Documentary film: Epidemic Survival - Pain and Self-Help for Small and Micro Enterprises and Self-employed People.
+【BOSS说】向新而行：转换·觅机致敬创建者2019创新峰会。
+Move to New Ways: Hail the founder of the 2019 Innovation Summit.
+电子刊物。
+Electronic publications.
+点击进入。
+Click to access.
+地址：北京理工大学国防科技园2号楼4层。
+Address: 4 / F, 2 National Defense Science Park, Beijing Polytechnic University.
+邮编：100081 电话：4001560066 传真：86-10-88510872。
+Postal Code: 100081 Tel: 4001560066 Fax: 86-10-88510872.
+违法和不良信息举报电话：010-60910566 。
+Report on illegal and undesirable information: 010-60910566.
+举报邮箱：jubao@eeo.com.cn。
+E-mail: jubao @ eeo.com.cn
+Copyright @ 经济观察网 2001-2018。
+Copyright @ Economic Watch 2001-2018.
+京ICP备18019893号。
+Beijing ICP Preparation 18019893.
+京公网安备 11010802028547号。
+Beijing Public Security 110802028547.
+广播电视节目制作经营许可证 (京)字第12950号。
+Radio and television production and operation license (Beijing) 12950.
+增值电信业务经营许可证 B2-20196208。
+Value Added Telecom Business Licence B2-20196208.
+京网文（2019）4644-484号。
+Gwen Wen (2019) 4644-484.
+版权声明 Copyright。
+Copyright Statement Copyright.
+联系我们 Contact Us。
+Contact us at Contact Us.
+关于我们 About Us。
+About us About Us.
+友情链接 Links。
+Links to Links.
+经观招聘 EEO Jobs。
+Look for EEO Jobs.
+订购中心 Subscribe。
+Subscribe, ordering centre.
+广告刊例 Advertising。
+Advertising is an example.
+// 2018/4/2 删除“你可能还想看”栏目js。
+/ / 2018 / 4 / 2 Delete "You may also want to see" column js.
+if(confirm('请登录后再订阅'))。
+If (confirm; please login and subscribe to & apos;)).
+X选择其他平台 >>分享到。
+X has selected other platforms; & gt; shared.
