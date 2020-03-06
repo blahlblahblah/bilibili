@@ -1,0 +1,300 @@
+疫情之下，哪些AI技术正在爆发？。
+What AI technologies are breaking out in an epidemic?
+燃财经工作室。
+Burning Finance Studio.
+燃财经                      。
+Burning finance.
+燃财经。
+Burning finance.
+每天一篇深度报道，重新定义创新经济。
+A daily in-depth report redefining the creative economy.
+。
+.
+《创新经济战疫计划》，是燃财经在新型肺炎疫情期间推出的特别栏目，关注创新经济企业遇到的新难题、商讨应该采取的新对策，希望能够帮助中小企业一起战胜挑战、把握机会。
+The Innovation Economic Plague Program is a special section of the New Pneumonia Epidemic launched by FCI. It focuses on the new difficulties encountered by innovative economic enterprises, discusses new measures to be adopted, and hopes to help SMEs overcome challenges and seize opportunities together.
+作者 | 苏琦编辑 | 魏佳2020年的这场疫情，时常被人拿来和2003年的SARS相比较。
+The outbreak at the company's service in 2020 was often compared with SARS in 2003.
+与17年前相比，在这场艰难的疫情攻坚战中，除了日夜奋战的医护人员外，日益成熟的AI技术已经成为一股“战疫”力量，发挥出重要作用。
+Compared with 17 years ago, in this difficult battle of the epidemic, in addition to the day-and-night medical staff, the increasingly mature AI technology has become a "plague" force, playing an important role.
+平常提到AI，总是和“亏损”、“不落地”、“泡沫”这样的关键词联系在一起，但在疫情之下，AI变得与我们的生活息息相关。
+Usually referred to as AI, and "losses," "do not land", "bubble" and other keywords linked, but in an epidemic, AI has become very relevant to our lives.
+在机场、地铁站，你接受过红外热成像系统的测温；从外地返回住所时，你可能接到过智能机器人打来的信息填报电话；进入写字楼时，AI能识别你戴没戴口罩；医院里，医生凭借着AI辅助诊断系统快速判断出患者是否可能患上新冠肺炎，机器人穿梭在隔离病房，为病人配送餐食药品……疫情加速了AI和城市生活的融合，一方面，AI能够提高效率，另一方面，AI在某些场景下替代人工，能够降低感染风险。
+You may have received a call from an intelligent robot returning to your home; AI can tell if you're wearing a mask when you enter an office building; a robot shuttles through an AI-assisted diagnostic system to deliver food products to patients.
+那么，哪些场景下的应用正在迎来新机会？疫情终将过去，AI在各个领域的需求还会继续吗？AI辅助诊断，2-3秒找出病灶场景：医院这次疫情，最紧张的地方要属各地医院，尤其是武汉地区的医院。
+So, which scenarios are opening up new opportunities? Will the epidemic eventually pass and AI needs will continue in all areas? AI-assisted diagnosis, 2-3 seconds to find the focus: This hospital outbreak, the most tense place to be hospitals, especially in Wuhan.
+李文亮医生此前工作的武汉市中心医院，与华南海鲜市场仅一站之隔，位于疫情最核心区域。
+Dr. Li Wenliang had previously worked at Wuhan Central Hospital, just one stop away from the South China seafood market, in the heart of the epidemic.
+在该医院被确定为发热患者定点收治医院后，高峰时段，医院每天的CT检查量平均超过1000例，一线的放射科医生只能通宵读片。
+After the hospital was identified as a designated hospital for fever sufferers, the average number of CT examinations per day at the hospital exceeded 1,000 per day during peak hours, and first-line radiologists could only read films overnight.
+一个胸部CT有300多张横截面的片子，仅靠医生肉眼一张一张读片，工作量相当大。
+A thoracic CT with more than 300 cross-sectional films, read only to the naked eye of the doctor, a considerable amount of work.
+2018年时，武汉市中心医院就开始使用数坤科技的CT人工智能辅助诊断产品，主要用于冠心病领域。
+In 2018, Wuhan Central Hospital began to use digital kun technology CT Artificial Intelligence assistant diagnostic products, mainly used in the field of coronary heart disease.
+因此在疫情爆发之后，数坤科技立即组织研发人员，在春节期间开发了新冠肺炎AI辅助诊断产品，并于2月初在武汉市中心医院上线使用。
+Therefore, immediately after the outbreak, Dakun Science and Technology immediately organized R & D personnel, during the Spring Festival developed the new crown pneumonia AI auxiliary diagnostic products, in early February in Wuhan City Central Hospital for use.
+这个产品能在2-3秒内从300多层的CT影像中挑出病灶影像，并生成3D肺叶模型，标出病灶所在区域，随后引导医生对病人进行合理分诊，提高新冠肺炎的检测效率。
+In 2-3 seconds, the product picks out the lesion image from 300 multi-slice CT images and generates a 3D model of the lung to mark the area of focus. It then directs the doctor to make rational diagnosis of the patient and improve the efficiency of the new crown pneumonia test.
+如果患者再次做CT，该产品还能自动对比病人前后的病灶变化，便于医生判断病情。
+If the patient does CT again, the product can also automatically compare the patient before and after the lesion changes, so that the doctor can judge the disease.
+武汉市中心医院影像科王翔主任曾公开表示，这套AI系统可为医生提升50%的效率。
+Wang Xiang, director of imaging at Wuhan Central Hospital, has said publicly that the AI system could boost doctors' efficiency by 50 per cent.
+武汉市中心医院医生使用数坤新冠肺炎AI产品效率提高了，准确率怎样保证？数坤科技相关负责人告诉燃财经，既不能错判，还要抑制假阳，即由于环境、操作、实验方法或者患者自身等因素，把不具备阳性症状的人检测出阳性的结果，这两个维度是现有产品的难点。
+How to improve the efficiency and accuracy of the AI product used by doctors in Wuhan city central hospital? Those responsible for science and technology told Feikun Finance that we can neither misjudge nor suppress pseudoyang, that is, to detect positive results in people who do not have positive symptoms due to environmental, operational, experimental methods or patient's own factors.
+“要控制好这两个维度，需要凭借多年的医学临床经验和病例判断能力，对AI系统的算法进行不断调参。
+"Controlling these two dimensions requires constant reference to AI systems based on years of medical clinical experience and case judgment.
+”该负责人称，医生的经验和数据的积累，才是很多AI辅助诊断系统走得更远的关键。
+The director said the experience of doctors and the accumulation of data were key to many AI-assisted diagnostic systems going further.
+也是得益于数坤科技在冠心病领域辅助诊断的数据积累，这次才能够快速迭代出新冠肺炎相关的辅助诊断产品。
+Thanks to the accumulation of data in the field of coronary heart disease assisted diagnosis by DKT, we were able to iterate the auxiliary diagnostic products related to new crown pneumonia rapidly.
+据介绍，该AI系统已在武汉大学人民医院、武汉大学中南医院，武汉市中医院等全国几十家医院落地使用，并捐赠给雷神山医院。
+The AI system has been used in dozens of hospitals nationwide, including Wuhan People's Hospital, Wuhan University Zhongnan Hospital and Wuhan Chinese Hospital, and donated to Raytheon Mountain Hospital, according to the report.
+北京友谊医院影像科使用数坤新冠肺炎AI产品在疫情中，依图科技、商汤科技也基于已有的智慧诊疗平台，针对新冠肺炎进行了升级。
+Beijing Friendship Hospital Imaging Department uses DKK new crown pneumonia AI products in the epidemic situation, according to the technology, commercial soup technology also based on the existing wisdom of the diagnosis and treatment platform, the new crown pneumonia has been upgraded.
+“这次疫情给我最大的感触是，对于普通老百姓来说，好的医疗资源真的十分有限。
+"What struck me most about the epidemic was that good health care is really limited for ordinary people.
+疫情加速验证了AI助医的效果，接下来可能会有更多的基层医疗机构选择AI产品，让具备大医院诊断能力的AI产品可以快速复制到基层。
+As the epidemic accelerates to test the AI's effectiveness, more primary care providers may choose AI products, allowing AI products with large hospital diagnostic capabilities to be quickly replicated at the grass-roots level.
+”该负责人告诉燃财经。
+The person in charge told Flames Finance.
+他认为，AI辅助诊断系统对于此次肺炎来说，除了诊断还有科研意义。
+In his view, AI-assisted diagnostic system for this pneumonia, in addition to diagnosis is also of scientific significance.
+在接下来的阶段，应该针对疾病在临床做一些科研，构建更好的防控体系。
+In the next stage, we should do some clinical research on the disease and construct a better control system.
+未来，AI技术在辅助诊断领域的应用将成为一种趋势。
+In the future, AI technology in the field of auxiliary diagnosis will become a trend.
+非接触测体温，不摘口罩也能测场景：车站、楼宇返工潮期间，车站、机场、写字楼等公共场所人流聚集，该如何监控异常体温，成为一大难题。
+Non-contact temperature measurement, no mask can also measure the scene: Stations, buildings back to work during the tide, stations, airports, offices and other public places gathered, how to control abnormal body temperature, a major challenge.
+通常大家进出小区，都会有门卫挨个用额温枪进行测量，但在人多的地方，这样的做法不现实，所以AI企业开始各显神通，用红外测温仪替代。
+Usually people go in and out of the neighborhood and have a doorman measure it one by one, but in crowded places it's not realistic, so AI companies are starting to excel with infrared thermometers.
+红外测温仪通过红外热成像相机，对大于3米的范围内的人群进行非接触远距离测温，可以同时测100人。
+Infrared thermometers can measure 100 people at a time using infrared thermal imaging cameras for non-contact long-range temperature measurements of populations larger than 3 metres.
+人群中如果有人超过37.3℃，测温仪能够迅速识别，并提示工作人员进行二次测量复核。
+If there is more than 37.3 ° C in the population, the thermometer can be quickly identified and the staff are prompted to conduct a second survey review.
+旷视“明骥”测温解决方案系统怎样才能把被测温群体中的每个人的温度标注出来？旷视副总裁谢忆楠告诉燃财经，旷视在AI识别方面一直做的是人体检测，这次他们将普通光学摄像机和红外温感摄像机结合成一体，改造后的硬件能够解决这个问题。
+2007-08-23 21: 48 2007-06-19 09: 48 2007-06-19 09: 48 2007-06-19 09: 48 2007-06-19 09: 48 2007-06-19 09: 27: 48 2007-06-09 09: 53: 50 2007-06-19 09: 55: 50 2007-08-19 19: 19 2007-08-19 19: 19 2007-08-19 19: 19
+另外，冬天大家暴露在外面的皮肤非常少且佩戴口罩，如何找到有效测量体温的部位是另一个挑战。
+In addition, with very little skin exposed to the outside and a mask worn during the winter, finding an effective location to measure body temperature is another challenge.
+旷视采用的办法是先把口罩扫描出来，再快速通过口罩去定位额头的位置。
+The method of truancy is to scan out the mask and then quickly locate the forehead through the mask.
+“现在大家都在抢着推出红外测温，市场需求量很大，响应速度就成了一个问题。
+"Now we are scrambling to introduce infrared temperature measurement, the market demand is very large, response time has become a problem.
+另外，测温的精准度会受到很多因素的影响，尤其在车站这种人流量比较大、室内外温差大、环境比较复杂的地方，难免会有温度的浮动。
+In addition, the accuracy of temperature measurement will be affected by many factors, especially in the station such as large traffic, indoor and outdoor temperature difference, more complex environment, there will inevitably be temperature fluctuations.
+”西安柚个群信息科技有限公司总经理王亚恒称。
+Xi'an Grapefruit Group Information Technology Co. Ltd. General Manager Wang Yaheng said.
+红外测温为了保证测量温度的精准性，很关键的一个硬件叫黑体，目前供应不足。
+Infrared temperature measurement In order to ensure the accuracy of temperature measurement, a key piece of hardware called black body, is currently in short supply.
+“以前这个产品一般都是小规模生产，市场需求量没那么大。
+"In the past, this product was usually made on a small scale and there was not that much market demand.
+疫情的突然爆发，对造黑体厂家的反应速度来说提出了极高的要求。
+The outbreak of the outbreak of blackbody manufacturers for the speed of response to put forward a very high demand.
+AI公司面对这条陌生的供应链，如何快速实现规模化量产，也成了当务之急。
+AI companies face this unfamiliar supply chain, how to quickly achieve large-scale production, has also become an urgent matter.
+”王亚恒称。
+"said Wang.
+对此，旷视推出了新算法，即便无黑体也能保证人体测温的误差在±0.3℃，为行业提供了新的可能性。
+In this regard, absenteeism introduced a new algorithm, even without black body temperature measurement error in ± 0.3 degrees Celsius, provides a new possibility for the industry.
+还有一种特殊情况是，疫情当前大家都佩戴口罩和帽子，对于复工的职员来说，戴着口罩也能轻松实现刷脸打卡和测温，成了新刚需。
+There is also a special case, the epidemic is currently wearing masks and hats, for the staff back to work, wearing masks can also easily brush the face card and temperature, become the new needs.
+商汤科技针对办公场所的门禁这一场景，研发出了SenseThunder-E火神测温热像仪+SensePass Pro无感通行测温方案，对体温异常和未戴口罩者进行自动拦截。
+In response to the ban on office space, Shantang Technology has developed the SenseThunder-E Thermograph + SensePass Pro Insensible Access Thermometer to automatically intercept people with abnormal body temperature and those without masks.
+一些创业公司也看准了机会进场，柚个群信息科技疫情防控体温预测系统就针对江西上饶市政府相关部门，生产了“人脸识别+体温监测+云端分析”集成系统。
+Some start-up companies are also looking for opportunities to enter the scene, teak groups of information technology epidemic prevention and control temperature forecasting system for the relevant government departments in Shangrao, Jiangxi Province, the production of "face recognition + temperature monitoring + cloud end analysis" integrated system.
+柚个群信息科技疫情防控体温预测系统“现在各行各业都有增加防疫功能的需求，比如学校会增加含有测温板块的闸机，并且要在开学前改造到位。
+"There is now a need to increase the use of epidemic prevention in all walks of life. Schools will increase the number of gates with temperature measuring plates and put them in place before classes start.
+”王亚恒告诉燃财经，疫情期间，一些有产品制造能力、生产能力、销售渠道的公司，开始主动找AI企业合作，增加例如测温等新的功能点，这对于行业来说是好事。
+Mr. Wang told the Financial Times that during the outbreak, some companies with manufacturing capacity, production capacity and sales channels began to actively seek AI companies to add new functions, such as temperature measurement, which would be good for the industry.
+新的需求意味着新的机会。
+New demands mean new opportunities.
+“这次疫情告诉AI行业，需要静下心来练习内功，比如你的AI算法能不能和目前现在成熟的物联网设备，比如摄像头、开关感应器、门禁、闸机等，进行连接或者其他形态上的改变。
+"The AI industry has been told that it needs to calm down and practice its inner workings, such as whether your AI algorithm can be connected or altered in other ways to current sophisticated Internet of Things devices such as cameras, switch sensors, gates, sluices, etc.
+产品第一，我认为这是AI企业在这次疫情期间要首先要学习的。
+Product first, I think this is AI enterprise in this epidemic period to learn first.
+”谢忆楠称。
+"said Xie.
+AI追踪，还原确诊病人活动轨迹场景：社区“您好，这里是xx社区街道办事处，请问您是xxx居民吗？请问您或您的家人是否有咳嗽、胸闷等不适症状？请问您或您的家人目前体温是否正常？”最近你或许已接到不少此类AI问询/排查电话，同样的，你在进出小区、办公楼时，每天都要在系统上填报个人信息，这背后也离不开AI的智能服务。
+Hello, this is xx community street office, are you a resident of xxx? Are you or your family members suffering from cough, chest tightness, etc. Are you or your family members having normal body temperature?
+据了解，百度、科大讯飞、阿里云等科技企业的“智能外呼平台”，京东数科的智能外呼机器人都已经在这次抗疫过程中得到应用。
+It is understood that Baidu, HKUST fly, Ali Yun and other technological enterprises "intelligent external paging platform," the Jingdong digital intelligent paging robot has been used in the course of the epidemic.
+此外，京东数科还上线了疫情问询机器人，能对疑似病患进行提问，分析对方是否需要进行隔离治疗。
+In addition, the Jingdong Division also on-line epidemic information robot, can question suspected patients, analysis of each other whether the need for isolation treatment.
+用户扫码登录后，还能查询到发热门诊机构和定点医院的信息，能在“在线药房”选购药品。
+After the user sweeps the code login, also can query the information of the fever clinic organization and the point hospital, can choose the medicine in the "on-line pharmacy".
+“不过，经历了这次疫情，我也发现团队能力还有需要提升的部分。
+"However, having experienced this outbreak, I have also found that there is still room for improvement in team capabilities.
+比如第一版问询疫情机器人的开发只用了三天时间，每天会有大量的用户来咨询问题，有些问题会超越原有的数据库，这也激发我们持续迭代产品，完善知识库。
+For example, the first edition of the Inquiry into the development of epidemic robots took only three days, with a large number of users asking questions every day, some going beyond the original database, which also stimulated us to continue iterating the product and improving the knowledge base.
+”京东数科首席科学家薄列峰称。
+Bo Lifeng, chief scientist at the Beijing-East Numerology Department.
+他补充道，“另外，当我们在配置外呼机器人的过程中，实际上还是需要社区工作人员的人工参与，团队还需建立一套更加完整的、可以持续自我迭代的知识库，来提升自动化的程度。
+"In addition, when deploying paging robots, we actually need the human involvement of community workers, and the team needs to build a more complete, sustainable self-iterating knowledge base to enhance automation," he adds.
+”好在疫情过去之后，外呼机器人在各种人员比较密集的场景中，还能发挥比较大的作用，比如当物流配送人员送到之后，可以用外呼机器人确认物品已经送达。
+Fortunately, in the aftermath of the outbreak, paging robots can play a larger role in a variety of more densely populated settings, such as when logistics personnel arrive and paging robots can be used to confirm that items have arrived.
+在疫情中，怎样快速还原确诊病人的活动轨迹是一个紧迫的问题。
+In the epidemic situation, how to quickly restore the locus of activity of the diagnosed patients is an urgent problem.
+京东数科提供了疫情高危人群势态分析和预警系统，帮助政府分析居民的行动路线，对高危人群做出预警，进行排查。
+The Jingdong Division provides situational analysis and early warning systems for high-risk populations, helping the Government to analyse the course of action of the population, provide early warning to high-risk groups and conduct screening.
+该系统能对确诊病患的行为轨迹进行分析，帮助潜在的密切接触者做隔离。
+The system is able to analyse the behavioural trajectories of confirmed patients and help isolate potential close contacts.
+“全国各地政府都想知道从疫区回来的人分布在哪里，如何高效排查，靠人力一个一个排查几乎不可能，时空数据总是动态变化，里面关系到电信运营商的数据、政府数据和企业数据的打通问题。
+"Governments all over the country want to know where people from affected areas are distributed, how efficiently they are screened, how it is almost impossible to do one by one, spatio-temporal data are always dynamic and relate to telecommunications operators' data, government data and business data access.
+我们给18个省市提供了这套系统，北京找到500位密切接触者。
+We have provided this system to 18 provinces and cities, and Beijing has 500 close contacts.
+”京东集团副总裁、京东数字科技首席数据科学家、京东城市总裁郑宇称，确诊病患的轨迹是最紧急也是最棘手的需求，系统经常一天要算两遍。
+Confirming the trajectory of a patient is the most urgent and intractable need, often twice a day, says Zheng Yu, vice president of Jingdong Group and chief data scientist at Jingdong Digital Technology.
+普通市民则可以通过社区疫情智能管控平台提报自己的健康状况以及出行记录，并且凭借生成的二维码出入小区。
+Ordinary citizens can report their health status and travel records via the Community Outbreak Intelligence Control Platform, and use the generated two-dimensional code to access the community.
+“对于社区的管控平台，我们在榆林、亦庄都有落地，亦庄现在有四万多户居民每天都在使用，背后节省的是四万多张纸和四万分钟的填表格时间。
+"We have control platforms in Yulin and Yizhuang, where more than 40,000 households now use them every day, saving more than 40,000 sheets of paper and 40,000 minutes to fill in," he said.
+”郑宇称。
+"said Zheng.
+无人机和AGV将被应用到更多领域场景：农田、仓库疫情发生以来，“无人+”成了高频关键词。
+Drones and AGV will be used in many more scenarios: Since the outbreak of farmland and warehouses, "nobody +" has become a high-frequency keyword.
+春节期间，一则村干部喊话的视频在朋友圈广泛流传，但很多人不知道的是，喊话器其实还有无人机版。
+During the Spring Festival, a video of village officials shouting was widely circulated among friends, but what many people did not know was that the loudspeaker actually had a drone version.
+大疆方面称，大疆“御”MAVIC2行业双光版机型，可以选择搭配喊话器、热成像器等功能，集喊话、热成像测温、高空作业喷洒消毒水等功能于一身。
+Frontier said, "control" MAVIC2 industry dual-light version of the model, can choose a combination of shouting equipment, thermal imaging equipment and other functions, such as shouting, thermal imaging temperature measurement, high-altitude spraying disinfectant functions.
+2月4日，大疆农业发起“疆军战疫”并设立1000万战疫基金，支持各地疫情消杀。
+On February 4, Xinjiang Agriculture launched the "Frontier Corps Battle Disease" and set up a 10 million epidemic fund to support the eradication of epidemic diseases in all areas.
+截至目前，大疆农业植保无人机已在全国千座村落累计消杀超4亿平方米。
+Up to now, agricultural plant protection UAV in Xinjiang has been eliminated in 1000 villages over 400 million square meters.
+不过需要提醒的是，这类产品需要专业人员进行操控。
+It should be noted, however, that such products require professional control.
+大疆方面称，除了喷洒消杀防疫工作，大疆还在巡逻疏导、防疫宣传、物资投递等场景提供了无人机解决方案。
+In addition to spraying and killing epidemic prevention, Xinjiang has also provided drone solutions for patrol and guidance, epidemic prevention campaigns and material delivery, said Xinjiang.
+配置了热成像传感器的“御”Mavic 2 行业双光版除了无人机外，医药物资的出入库及配送，防护用品生产企业的物料拣选及产线搬运，还用到了无人车。
+In addition to UAVs, medical materials are stored and distributed in and out of the country. Material selection and production line handling are carried out in protective equipment manufacturing enterprises, and unmanned vehicles are used.
+“我们有个客户就在武汉当地，负责湖北的医药配送。
+"We have a customer in Wuhan who is in charge of medicine distribution in Hubei Province.
+疫情期间，我们专门为他提供技术支持，防止订单量暴增而导致系统不稳定。
+During the outbreak, we provided him with technical support to prevent the surge in orders and lead to system instability.
+”快仓智能联合创始人孙宇告诉燃财经。
+Sun Yu, co-founder of Quick Warehouse Intelligence, told Flaming Finance.
+快仓智能机器人在仓库工作但孙宇称，仓库内效果不错，开放环境的最后一公里确实比较困难，无人车常态化运作还有不少挑战，主要在于环境和天气的复杂性、法律风险不确定性等因素。
+Warehouse Intelligent Robots Work in Warehouses But Sun said the warehouse is working well, that the last kilometer of the open environment is really difficult, and that there are still many challenges to the normal operation of unmanned vehicles, mainly due to the complexity of the environment and weather, uncertainty about legal risks, etc.
+在运输环节，他比较看好无人集卡（无人驾驶集装箱卡车）这种产品形态，尤其是干线物流的无人集卡。
+In the transport sector, he preferred the product form of unmanned pickup cards (unmanned container trucks), especially those in trunk logistics.
+“平平”和“安安”在医院配送物资此次疫情，让“自动引导车（AGV）+”复合型产品得到更广泛的应用。
+"Pingping" and "An An" distribution of supplies in hospitals this outbreak, "AGV +" compound products have been more widely used.
+广东省人民医院就引进了双胞胎机器人“平平”和“安安”，在隔离病房和感染科配送餐食药品，回收被服和医疗垃圾。
+The Guangdong Provincial People's Hospital has introduced twin robots, "Ping An" and "An An," to distribute food products in isolation wards and infection departments and to recycle bedclothes and medical waste.
+后来出现了各类消毒机器人、巡视机器人、测温机器人等，都是在AGV的基础上进行创新，从而满足各种场景的应用。
+Later appeared various disinfection robots, patrol robots, temperature-measuring robots, and so on, are based on AGV innovation, so as to meet the application of various scenarios.
+AI算法缩短分析时间，助力研发新药、疫苗场景：实验室新冠肺炎疫情期间，百度、阿里巴巴、商汤等企业采取开放核心算法和计算能力的方式，与医学研究机构共同抗击疫情，主要用于病毒基因测序、新冠肺炎新药与疫苗研发、蛋白筛选等工作。
+AI algorithm shortens analysis time, helps develop new drugs, vaccine scenes: Baidu, Alibaba, and Shantang use open-core algorithms and computing power to fight the disease with medical research institutions, mainly for viral gene sequencing, development of new drugs and vaccines for pneumonia, protein screening, etc.
+这些都是在实验室通过计算机的对比推算来实现的，利用人工智能算法，可将原来数小时的疑似病例基因分析缩短至半小时，并能精准检测出病毒的变异情况，争取宝贵时间。
+These are done in the lab by computer comparison, using artificial intelligence algorithms that can shorten the genetic analysis of suspected cases from a few hours to half an hour, and can accurately detect virus variation and gain valuable time.
+在华创资本合伙人熊伟铭看来，通常一个药的研发大概需要10亿美元、10年时间，在AI的帮助下，或许能将这个时间大大缩短。
+According to Xiong Weiming, a partner at Huacheng Capital, research and development of a drug typically takes about $1 billion or 10 years, and with AI's help, that time may be greatly shortened.
+但从另一方面来看，AI制药并不是一个比较火的市场，在这个领域创业需要熬时间。
+But AI pharmaceuticals, on the other hand, is not a popular market, and it takes time to start a business in this area.
+他介绍，在国外，像薛定谔这样的已经创业30年的公司，2018年全公司的收入也才达到6000万美金，相比之下，黑钻成立不到六年的时间就上市了，但目前为止也只做出了两个临床前的药物。
+In foreign countries, companies such as Schrodinger's 30-year-old start-up will generate only $60 million in revenue in 2018, compared with less than six years since the Black Diamond came on the market, but only two pre-clinical drugs have been developed so far.
+所以AI技术到底能不能达到大家期望的结果，整个行业目前还在观望中。
+So AI technology can achieve the desired results, the entire industry is still waiting to see.
+图 / 视觉中国用人工智能帮助新药研发早已不是新话题了。
+Use of artificial intelligence to help develop new drugs is no longer a new topic in China.
+早在1981年10月，Fortune财富杂志的封面就已经报道过默克在用计算机帮助提升新药研发的效率。
+Back in October 1981, Fortune magazine's cover had reported that Merck was using computers to help improve the efficiency of new drug development.
+但尽管如此，目前还没有任何一款由AI成功研发的药物上市。
+Despite this, none of the AI-developed drugs are currently on the market.
+“药物研发是一个特别漫长的过程，花费也是巨大的。
+"Drug research and development is a particularly long process, and the costs are enormous.
+在这个过程中，目前AI能起到的作用是加速化合物的筛选，但到了临床之后，作用其实比较有限。
+In this process, AI can now play a role in accelerating the screening of compounds, but after clinical, the effect is more limited.
+”中科院资本执行董事李明称。
+Li Ming, executive director of Chinese Academy of Sciences capital.
+对于制药公司来说，公司最终的价值取决于新药的流水线，临床前的条件和靶点的选择等条件。
+For pharmaceutical companies, the ultimate value of a company depends on the pipeline of new drugs, pre-clinical conditions and the choice of targets.
+因此，从创业的角度，熊伟铭认为应从制药领域上下游和周边切入，会比较有优势。
+Therefore, from an entrepreneurial point of view, Xiong Weiming believes that from the pharmaceutical field upstream and downstream, will be more advantageous.
+如果创业公司既有AI能力，同时又理解制药行业，将会有很大的机会。
+If start-ups have both AI capabilities and an understanding of the pharmaceutical industry, there will be great opportunities.
+结语疫情过后一些场景将沉淀但并不能决定AI企业的未来疫情终将过去，AI在各个领域的需求会逐渐消退吗？“AI的渗透是分阶段的，目前大部分创业公司都集中在图像和语音语义上面，这两领域的客户集中在安防、金融领域，需求刚性，买单能力也比较强。
+Are AI penetration phased and most start-ups now concentrate on image and speech semantics, with clients concentrated in the security and financial sectors, where demand is rigid and pay-for-the-costs capabilities.
+现在AI也开始逐渐渗透到工业领域，但下一步AI企业该往哪里走，行业也在观望当中。
+AI is also beginning to trickle down to industry, but the next step is where AI companies should go and the industry is watching.
+”中科院资本执行董事李明称。
+Li Ming, executive director of Chinese Academy of Sciences capital.
+李明认为，整体来看，疫情之下，各家AI企业的反应速度都很快，但是现在上游供应链有很多产品有价无市，再加上复工压力，AI企业将背负很大的压力。
+Li Ming thinks, overall, under the epidemic, each AI enterprise's reaction speed is quick, but now upstream supply chain has many products price price, combined with the pressure to return to work, AI enterprises will bear a great deal of pressure.
+疫情过去以后，一些场景终究会沉淀下来。
+After the epidemic, some scenes will eventually settle down.
+比如，首都机场的测温仪是SARS时开始使用的，北京地铁的安检是奥运会时开始使用的，此次疫情也同样会积累一些场景的使用习惯。
+For example, the Capital Airport's thermometer was first used on SARS, and security on the Beijing subway was introduced at the time of the Olympic Games.
+“但回过头来说，这些场景下新增的功能和产品并不是决定AI企业发展最关键的东西。
+"But in retrospect, adding features and products to these scenarios is not the most critical thing in determining AI enterprise development."
+疫情对所有产业都会是一次大洗牌，模式落后、产品单一、财务状况不过关的企业都会被淘汰。
+The epidemic would be a major reshuffle for all industries, with backward models, single products, and failing finances.
+这次疫情是一个催化剂，但企业光有催化剂是发展不起来的。
+This outbreak is a catalyst, but the catalyst alone can not be developed.
+大浪淘沙，考验的反而是中小AI企业。
+Big wave sand, the test is small and medium-sized AI enterprises.
+”李明称。
+"said Li Ming.
+*题图来源于视觉中国。
+The picture comes from Visual China.
+“创新经济战疫计划”相关的深度报道和沙龙实录可点击公众号菜单“战疫计划”阅读。
+"Innovative Economic Plague Program" related to in-depth reporting and Sharon's live video can be read on the public number menu "Plague Program."
+你身边有哪些有意思的AI应用？欢迎在评论区留下你的评论。
+What interesting AI apps do you have around you? Please leave your comments in the comments section.
+我们会在点赞前三（超过20个，统计周期为7天）的评论里挑选一位网友，送出爱奇艺季卡一张。
+We'll pick a netizen from the comments on the top three (more than 20, with a 7-day statistical cycle) and give out a season card.
+原创文章转载请点击公众号菜单“转载合作”。
+Original article reprint please click on the public number menu "reprint cooperation."
+一手资讯/硬核报告/每日红包/线下活动！就差你了！快加微信rancaijing01回复“读者”一键上车！。
+First-hand information / hardcore reports / daily red packets / offline activities! Not for you! Add micro-mail Rancaijing 01 reply "Reader" to get on the bus!
+燃财经工作室。
+Burning Finance Studio.
+点个在看吧😘。
+Check it out.
+信扫一扫赞赏作者。
+The letter swept over the author.
+已喜欢，对作者说句悄悄话。
+Like it, whisper to the author.
+发送给作者。
+Send to author.
+最多40字，当前共字。
+Up to 40 words, currently in common.
+点个在看吧😘。
+Check it out.
+发送到看一看 。
+Send it to see.
+疫情之下，哪些AI技术正在爆发？。
+What AI technologies are breaking out in an epidemic?
+查看更多相关内容。
+See more for more information.
+查看更多相关内容。
+See more for more information.
+以上推荐为优质及原创文章。
+Above recommendations for quality and original articles.
+长按识别前往小程序。
+Long press identify to go to the applet.
+var _ori_article_type = "科技互联网";。
+var _ ori _ article _ type = & quot; & T & T & T;;
+var nickname = "燃财经";。
+Var nickname = & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot;
+var msg_title = "疫情之下，哪些AI技术正在爆发？";。
+Var msg _ title = & quot; & # 160; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45;
+var msg_desc = "与17年前的SARS相比，AI正成为一股新的战疫力量。
+var msg _ desc = & quot; AI is becoming a new plague force compared with SARS 17 years ago.
+";。
+;; & quot;
+title: '我在武汉卖手机',。
+I sold phone service at & apos; in Wuhan.
+subject_name: '燃财经',。
+subject _ name: & apos; & quot; & quot; & quot; & economics & amp; economics & apos;
+title: '京东扳回一城，拼多多该小心了？',。
+A: Has Beijing brought back a city? & # 160; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45;
+subject_name: '燃财经',。
+subject _ name: & apos; & quot; & quot; & quot; & economics & amp; economics & apos;
+title: '复工了，老板让我做销售',。
+At service the boss asked me to do & apos; & quot; at & quot; & apos; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & P.
+subject_name: '燃财经',。
+subject _ name: & apos; & quot; & quot; & quot; & economics & amp; economics & apos;
+title: '潮玩停潮',。
+Ride & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot;.
+subject_name: '燃财经',。
+subject _ name: & apos; & quot; & quot; & quot; & economics & amp; economics & apos;
+var title ="燃财经";。
+Var title = & quot; & quot; & quot; & quot; & quot; & finance & quot;

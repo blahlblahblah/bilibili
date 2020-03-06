@@ -1,0 +1,170 @@
+钟南山为什么说，有信心4月底基本控制疫情？。
+Why does Zhong Nan Shan say, have confidence to basically control epidemic situation at the end of April?
+澎湃新闻                      。
+The news is roaring.
+澎湃新闻。
+The news is roaring.
+有内涵的时政新媒体。
+Connotation of the new political media.
+澎湃新闻记者 吴怡“在中国来看，有信心4月底基本控制疫情。
+Peng Pai journalist Wu Yi "In China, there is confidence in the end of April to basically control the epidemic.
+”日前，国家卫健委高级别专家组组长、中国工程院院士钟南山在广州医科大学疫情防控专场新闻通气会上说道。
+Zhong Nan Shan, a member of the Chinese Academy of Engineering and head of a high-level panel of experts, told a news briefing at Guangzhou Medical University.
+钟南山为何如此有底气得出这个结论？2月28日，一篇发表在Journal of Thoracic Disease（JTD）期刊题为“Modified SEIR and AI prediction of the epidemics trend of COVID-19 in China under public health interventions”（基于 SEIR 优化模型和 AI 对公共卫生干预下的中国COVID-19爆发趋势预测）的研究论文给出了答案。
+Why did Zhong Nan Shan have the guts to reach this conclusion? On Feb. 28, a study published in the Journal of Thoracic Disase (JTD) entitled "Modified SEIR and AI repression of the epics trend of COVID-19 in China under public health intervention" (SEIR-based optimization model and AI-based forecasting of COVID-19 outbursts in China).
+论文的通讯作者正是广州医科大学呼吸内科教授、国家呼吸系统疾病临床医学研究中心主任钟南山，另一位通讯作者则是广州医科大学附属第一医院胸外科主任、广州呼吸健康研究院院长、呼吸疾病国家重点实验室学组组长何建行。
+The author is Zhong Nan Shan, professor of respiratory medicine at Guangzhou Medical University and director of the National Clinical Research Centre for Respiratory Diseases. Another author is Chest Surgery Director of Guangzhou Medical University First Hospital, Director of Guangzhou Respiratory Health Research Institute and Head of National Key Laboratory Science Team for Respiratory Diseases.
+2020年1月23日，随着新冠肺炎（COVID-19）疫情发展，武汉宣布“封城”，当日起湖北乃至中国采取了前所未有的新冠肺炎疫情防控措施，这些措施包括大规模检疫隔离、严格的人员流动控制和对疑似病例的广泛监控。
+On January 23, 2020, with the spread of the New Crown Pneumonia (COVID-19) epidemic, Wuhan declared the city closed, and Hubei and even China took unprecedented measures to prevent and control the outbreak, including mass quarantine, strict movement control and extensive surveillance of suspected cases.
+钟南山研究团队通过流行病学模型和人工智能预测，内地的疫情将在2月下旬达到高峰，到4月底逐渐下降，最终疫情受感染的患者总规模约为12万例（95%置信区间为89741例至156794例）。
+Using epidemiological models and artificial intelligence, the Zhong Nan Shan team predicts that the epidemic in the interior will peak in late February and gradually decline by the end of April, bringing the total number of infected patients to about 120,000 (95% confidence intervals range from 89741 to 156,794).
+如果将防控措施实施时间（1月23日）推迟5天，数据模型预测，内地的疫情规模将是上述预测结果的近三倍；如果春节假期结束后，湖北取消现行的检疫防控措施，将在3月中旬引发省内第二次疫情流行高峰，并将流行期延长至4月下旬。
+If implementation of the control measures is delayed by five days (January 23), the data model predicts that the scale of the epidemic in the Mainland will be nearly three times that predicted. If the current quarantine measures in Hubei were to be lifted after the Spring Festival holiday, it would trigger the province's second epidemic peak in mid-March and extend the epidemic into late April.
+“严格的疫情监测和早发现早隔离的政策应保持到2020年4月底。
+"Strict disease surveillance and early detection and early isolation policies should be maintained until the end of April 2020.
+”研究团队总结认为，中国在1月23日开始实施的疫情防控措施对于新冠肺炎疫情规模的减少有效且必要。
+The team concluded that the control measures that China began implementing on January 23 were effective and necessary to reduce the scale of the outbreak.
+研究：若防控干预推迟5天，内地疫情规模扩至近三倍按照钟南山研究团队的数据模型预测，国内的疫情走向具体是怎么样的？首先，研究模型基于三种数据来源：一、国家卫健委每日报告的新冠肺炎病例数（根据实时荧光RT-PCR检测确诊的病例）。
+Research: If prevention and control intervention is delayed by five days, the scale of the epidemic in the Mainland will almost quadruple. First, the study model is based on three data sources: First, the number of cases of new crown pneumonia reported daily by the National Institutes of Health (based on real-time fluorescent RT-PCR testing).
+二、基于铁路、航空和道路交通每日出入境的人口迁徙数据。
+II. Data on daily population movements by rail, air and road.
+三、2003年4-6月SARS的病例数据集，被用于AI（人工智能）数据训练。
+iii. SARS case data set April-June 2003, used for AI (Artificial Intelligence) data training.
+疫情分析研究也使用了两种数据模型：SEIR优化模型（易感-潜伏-感染-隔离流行病传染模型）和深度学习中的LSTM模型（long-short term memory长短期记忆模型）。
+The epidemiological study also used two data models: the SEIR optimization model (susceptibility-latent-infection-isolating epidemiological transmission model) and the long-term and short-term memory model (long-term short-term memory model) in in-depth learning.
+考虑到中国内地自1月23日实施疫情防控措施以来，新冠肺炎传播风险有所降低，按照LSTM模型预测，内地新冠肺炎疫情将在2月4日达到高峰，到4月底疫情规模将有95000例。
+Considering the reduced risk of new crown pneumonia transmission in the mainland since January 23, the LSTM model predicts that the outbreak will peak on February 4, with 95,000 cases expected by the end of April.
+而SEIR模型预测，内地疫情将在2月28日达到高峰，现有确诊病例数（Cumulative active infections，现有确诊=累计确诊-累计治愈-累计死亡）为59764例（95%置信区间为51979例至70172例）；预计最终疫情规模为122122例（95%置信区间为89741例至156794例）。
+The SEIR model predicts that the number of confirmed cases in the Mainland will peak on February 28, with 59764 cases (95% confidence interval between 51979 and 70,172 cases) and 122,122 cases (95% confidence interval between 89741 and 156794 cases).
+SEIR和LSTM模型对于中国内地疫情的预测。
+Prediction of Mainland China Epidemic by SEIR and LSTM Model.
+如果内地采取防控干预措施的时间（1月23日）推迟5天，病毒传播机会增多，那会怎样？基于这一条件设定，SEIR模型预测，内地疫情将在3月4日达到峰值，现有确诊将有173372例；到4月底，最终疫情规模将有351874例，是之前预测结果的近三倍。
+Based on this premise, the SEIR model predicts that the Mainland will peak on March 4, with 173,372 confirmed cases; by the end of April, there will be 35,1874 cases, nearly three times the number previously predicted.
+如果将干预措施提早5天实施，那么最终疫情规模将为40991例。
+Had the intervention been implemented five days earlier, the final epidemic would have reached 40,991 cases.
+“我们的团队做出了疫情预测模型，2月中旬或下旬达到疫情高峰，确诊病例约六、七万人，投到国外权威期刊，被退了回来。
+"Our team developed an outbreak prediction model and reached a peak in mid-February or late February, when some 60,000 to 70,000 people were confirmed and sent back to authoritative foreign journals.
+”2月27日，钟南山曾在广州医科大学疫情防控专场新闻通气会上谈及团队的研究。
+On February 27, Zhong Nan Shan spoke about the team's research at a news briefing at Guangzhou Medical University's special event on disease prevention and control.
+钟南山透露，在疫情开始时，国外有流行病学家用权威的试验模型，预测2月初中国感染新冠肺炎人数将达16万人。
+At the start of the outbreak, experimental models from home epidemiologists predicted that the number of new cases of pneumonia in China would reach 160,000 in early February, Zhong said.
+“这是没有考虑到国家的强力干预，也没有考虑春节后的延迟复工。
+"This does not take into account strong state intervention, nor the delayed resumption of work after the Spring Festival," he said.
+事实上，我们预测更接近权威。
+In fact, our predictions are closer to authority.
+”澎湃新闻（www.thepaper.cn）根据国家卫健委官网数据梳理发现，新冠肺炎患者现有确诊总数的峰值出现在2月17日，当日31个省（自治区、直辖市）和新疆生产建设兵团报告现有确诊病例58016例，累计确诊病例72436例。
+The surging news (www.thepper.cn) found that the peak in the total number of existing confirmed cases occurred on Feb. 17, when 31 provinces, autonomous regions and municipalities directly under the Central Government and the Xinjiang Production and Construction Corps reported 58016 confirmed cases and 72,436 cumulative confirmed cases.
+这跟上述SEIR模型预测数据（内地疫情2月28日达到高峰，现有确诊59764例，95%置信区间为51979例至70172例）非常吻合，只是高峰期提前了11天。
+This is in line with the above SEIR model (the Mainland epidemic peaked on February 28 with 59764 confirmed cases, with 95% confidence intervals ranging from 51979 to 70,172), although the peak was 11 days earlier.
+2月6日-3月2日，31个省（自治区、直辖市）和新疆生产建设兵团新冠肺炎患者现有确诊和累计确诊病例数。
+From February 6 to March 2, the number of confirmed cases confirmed and accumulated in 31 provinces (autonomous regions and municipalities directly under the Central Government) and the Xinjiang Production and Construction Corps (XPCC).
+澎湃新闻记者吴怡 制图从疫情发展趋势可以看到，2月17日至3月2日，新冠肺炎患者现有确诊总数出现不断下降，从58016例降至30004例。
+From February 17 to March 2, the total number of existing confirmed cases of New Crown Pneumonia declined steadily, from 58016 to 30004, according to the trend.
+截至3月2日24时，内地累计报告确诊病例80151例。
+As at 2400 hours on 2 March, a cumulative total of 80151 confirmed cases had been reported from the Mainland.
+内地单日新增确诊病例出现两个高峰期除了现有确诊病例数，单日新增确诊病例数也是衡量疫情流行趋势的重要指标。
+In addition to the current number of confirmed cases, the number of newly confirmed cases per day is also an important indicator to measure the epidemic trend.
+研究团队发现，在1月22日至2月10日之间，内地实际的新增确诊病例数与LSTM预测的曲线非常吻合。
+The team found that between January 22 and February 10, the actual number of newly confirmed cases in the interior matched the LSTM curve.
+不过，SEIR模型预测，2月中下旬还会出现几个新增确诊病例的小高峰。
+However, the SEIR model predicts a small peak of several new confirmed cases in the second half of February.
+上图为LSTM模型预测内地累计确诊病例数，下图为SEIR和LSTM模型预测内地新增确诊病例数。
+The above LSTM model predicts the cumulative number of confirmed cases in the Mainland. The following figure shows the SEIR and LSTM models predicting the number of newly confirmed cases in the Mainland.
+SEIR和LSTM模型均预测，内地在2月4日到7日之间达到单日新增感染高峰，每天约有4000例新增确诊病例。
+Both the SEIR and LSTM models predicted that the Mainland would reach a peak in one-day infections between February 4 and 7, with about 4,000 new cases diagnosed each day.
+澎湃新闻根据国家卫健委官网数据梳理发现，从1月23日至3月2日，内地单日新增确诊病例出现了两个高峰期，一个是从2月3日至7日，新增确诊病例分别为3235例（2月3日）、3887例（2月4日）、3694例（2月5日）、3143例（2月6日）、3399例（2月7日），略低于上述模型的预测数据。
+According to the data of the National Health Officers' Network, there were two peaks in newly confirmed cases in the Mainland from January 23 to March 2. From February 3 to 7, 3,235 (February 3), 3887 (February 4), 3694 (Feb. 5), 3,143 (Feb. 6) and 3399 (Feb. 7) were slightly lower than the models predicted.
+从1月23日至3月2日，内地单日新增确诊病例数出现两个高峰期。
+From 23 January to 2 March, there were two peaks in the number of newly diagnosed cases per day in the Mainland.
+澎湃新闻记者吴怡 制图另一个高峰期出现在2月12日-13日，这期间湖北省将临床诊断病例纳入确诊病例统计，导致病例数暴增。
+Another peak occurred on Feb. 12-13, when Hubei Province added clinical cases to the list of confirmed cases, leading to a surge in the number of cases.
+2月12日，内地新增确诊病例15152例（含湖北临床诊断病例13332例）；2月13日为5090例（含湖北临床诊断病例3095例）。
+On February 12, 15,152 new cases (including 13,332 cases of clinical diagnosis in Hubei Province) were confirmed in the Mainland, and 5,090 cases (including 3,095 cases of clinical diagnosis in Hubei Province) on February 13.
+当前，国内单日新增确诊病例数在不断下降。
+At present, the number of newly diagnosed cases in China is decreasing.
+国家卫健委官网显示，3月2日，内地新增确诊病例125例。
+On March 2, 125 new cases were confirmed in the mainland, according to the National Health Officers' Network.
+这一数字创下1月23日以来单日新增确诊新低。
+That is the lowest number of new diagnoses a day since January 23.
+预测：湖北疫情将在四月下旬接近尾声自从1月23日武汉“封城”之后，湖北省内各市州也陆续宣布实行严格的交通管制和检疫措施。
+2007-3-1 15: 23 Since the end of the Wuhan city on January 23, the cities and counties in Hubei Province have also announced strict traffic control and quarantine measures.
+钟南山研究团队将2020年2月10日之后湖北省的人口迁徙指数设为零，并基于2月12日之前的确诊病例数，通过模型预测：湖北将在2月20日疫情达到流行高峰，预计疫情将在四月下旬接近尾声，最终确诊病例总数将达到59578例（95%置信区间为39189例至66591例）。
+The Zhong Nan Shan team set the Hubei province's migration index at zero after February 10, 2020, and predicted through models that Hubei would reach its peak on February 20 and that the epidemic was expected to end in late April, bringing the total number of final confirmed cases to 59578 (with a 95% confidence interval of 39,189 to 66591).
+不过，湖北实际的疫情数据比预测结果更高。
+However, the actual epidemic data in Hubei was higher than predicted.
+国家卫健委官网显示，截至3月2日24时，湖北累计确诊病例67217例（武汉49426例）。
+As of 2400 hours on March 2, a total of 67,217 cases (49,426 cases in Wuhan) had been confirmed in Hubei, the website of the National Health and Wellness Commission said.
+研究团队在论文中亦指出，由于当前新冠肺炎的诊断过程和方法存在缺陷，基于PCR检测确诊的病例数和疫情流行曲线可能会低估现实的情况。
+The team also pointed out in the paper that the number of cases diagnosed based on PCR and the epidemiological profile may underestimate the reality due to deficiencies in the current diagnosis process and methods of new crown pneumonia.
+而SARS流行病数据集（2003年4月-6月期间的病例数），用于预测新冠肺炎的疫情流行趋势也相对有限。
+The SARS Epidemic Dataset (the number of cases in April-June 2003) is also used to predict a relatively limited epidemiological trend for new crown pneumonia.
+SEIR模型对于湖北省疫情的预测。
+Prediction of epidemic situation in Hubei province by SEIR model.
+而湖北省当前的防控措施是否应该有所放松，如若放松将会有什么后果？研究团队假设，春节假期结束后，湖北取消现行的检疫限制，允许人员正常流动的话，省内将在2月18日迎来第一个疫情高峰期，并在3月11日迎来第二个高峰，最终疫情规模将比持续实施现行防控措施的疫情规模增加1万3千多例。
+The team hypothesized that the province would experience its first peak on February 18 and a second on March 11 if the current quarantine restrictions in Hubei were lifted after the Spring Festival and people were allowed to move normally.
+研究团队强调，除了湖北持续实施严格的防控检疫措施之外，其他省份投入大量的医疗资源到湖北用于建设新的收治医院和检疫中心，缓解了当地的医疗资源紧缺，降低了病毒的传播风险，这对于疫情规模的减少也起到了作用。
+In addition to continuing strict quarantine measures in Hubei province, the team stressed that other provinces had invested large amounts of medical resources in Hubei for the construction of new hospitals and quarantine centers, easing the shortage of medical resources and reducing the risk of transmission, which also helped to reduce the spread of the disease.
+值得关注的是，广东省和浙江省是务工人员流动的大省，截至2月10日，湖北、广东和浙江累计确诊新冠肺炎病例数分别为31728例、1177例和1117例，占全国总病例数的80％。
+As of February 10, the number of confirmed cases of new crown pneumonia in Hubei, Guangdong and Zhejiang provinces totalled 31,728, 1,177 and 1,117 respectively, accounting for 80 per cent of the country's total number of cases.
+而广东和浙江最终没有引发新冠肺炎的大流行。
+And Guangdong and Zhejiang did not eventually cause the New Crown Pneumonia pandemic.
+SEIR模型预测，两个省份的疫情将在2月20日达到高峰，并在4月中旬结束，广东最终的疫情规模为1511例（95%置信区间为1097例至1948例）；而浙江则为1491例（95%置信区间为1066例至1851例）。
+The SEIR model predicts that the epidemic in the two provinces will peak on February 20 and end in mid-April, with Guangdong finally having an epidemic of 1,511 cases (95% confidence interval 1097 to 1948) and Zhejiang 1,491 cases (95% confidence interval 1066 to 1851 cases).
+根据广东省、浙江省卫健委官网显示，截至3月2日24时，两省累计报告新冠肺炎确诊病例分别为1350例、1213例。
+As of 2400 hours on March 2, 1,350 confirmed cases of New Crown Pneumonia had been reported in the two provinces, and 1,213 cases had been reported, according to the Guangdong and Zhejiang Wei Health Officers' Network.
+随着广东和浙江的单日新增确诊病例数逐渐减少甚至为零，最终的疫情规模或与上述预测数据较为吻合。
+As the number of newly diagnosed cases in Guangdong and Zhejiang gradually decreases to zero, the final epidemic scale or is in good agreement with the above forecast data.
+研究团队认为，广东和浙江是仅次于湖北受疫情影响最大的两个省份，由于防控措施执行有力，疫情增长得以放缓，这也表明了检疫隔离和防控措施的有效性。
+Guangdong and Zhejiang are the two provinces most affected by the epidemic, after Hubei, the team said, showing that quarantine and control measures have been effective as control measures have been implemented to slow the spread of the disease.
+持续的“早发现早隔离”措施也可有效防止广东和浙江爆发第二波流行。
+Continued "early detection of early isolation" measures can also effectively prevent Guangdong and Zhejiang outbreak of the second wave of epidemic.
+“另外，季节性变化引起的气温变化对于广东省SARS流行的消散很重要。
+"In addition, seasonal changes in temperature are important for the dissipation of the SARS epidemic in Guangdong Province.
+新冠肺炎疫情按照这种逻辑发展的话，与浙江和湖北相比，广东省的疫情有望较早消退。
+According to this logic, the outbreak of New Crown Pneumonia, compared with Zhejiang and Hubei, Guangdong Province is expected to recede earlier.
+”研究团队表示。
+"The team said.
+不过需要注意的是，随着国际上新冠肺炎疫情形势逐渐变得严峻，国内还需要注意对境外输入性病例进行防控。
+However, it is important to note that as the international situation of pneumonia has gradually become more serious, the domestic need to pay attention to the prevention and control of imported cases.
+浙江省卫健委官网显示，3月2日0-24时，浙江省新增新冠肺炎确诊病例7例（均为丽水市青田县报告的意大利输入病例）。
+Seven new cases of pneumonia were confirmed in Zhejiang Province between 0 and 24 pm on March 2, the website said.
+“当时（研究）没有考虑国外，现在国外情况变了，还要另外考虑，但在中国来看，有信心4月底基本控制疫情。
+"Things have changed abroad and we have to think about it differently, but from China's point of view, we are confident that we can basically control the epidemic by the end of April.
+”钟南山在上述广州医科大学疫情防控专场新闻通气会说道。
+"Zhong Nan Shan in the above-mentioned Guangzhou Medical University epidemic prevention and control special news briefing said.
+本期编辑 常琛推荐阅读。
+This issue editor Chang Chen recommended reading.
+发送到看一看 。
+Send it to see.
+钟南山为什么说，有信心4月底基本控制疫情？。
+Why does Zhong Nan Shan say, have confidence to basically control epidemic situation at the end of April?
+查看更多相关内容。
+See more for more information.
+查看更多相关内容。
+See more for more information.
+以上推荐为优质及原创文章。
+Above recommendations for quality and original articles.
+长按识别前往小程序。
+Long press identify to go to the applet.
+var nickname = "澎湃新闻";。
+Var nickname = & quot; & quot; & quot; & quot; & quot;
+var msg_title = "钟南山为什么说，有信心4月底基本控制疫情？";。
+Var msg _ title = & quot; Why does Zhong Nan Shan say it was confident it controlled the epidemic by the end of April?;
+var msg_desc = "“在中国来看，有信心4月底基本控制疫情。
+Var msg _ desc = & quot; "In China's view, there was confidence that the epidemic was largely under control by the end of April.
+”";。
+";;
+title: '“湖北疫情依旧严峻，坚决不能放松”',。
+"Hubei still has a serious epidemic and resolutely not to relax" & amp; apos; & quot; & quot; & apos; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot;
+subject_name: '澎湃新闻',。
+subject _ name: & apos; & rsquo; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45;
+title: '湖北：监狱、看守所原则上只进不出',。
+Hubei: Not at all in prison or detention centre.
+subject_name: '澎湃新闻',。
+subject _ name: & apos; & rsquo; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45;
+title: '3省5个监狱共确诊555例，司法部谈疫情细节漏洞',。
+Ritle: & apos; 555 cases were diagnosed in five prisons in three provinces. & nbsp; & # 160; & # 45; & Justice & apos; & quot; & quot; & apos;
+subject_name: '澎湃新闻',。
+subject _ name: & apos; & rsquo; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45; & # 45;
+var title ="澎湃新闻";。
+Var title = & quot; & quot; & rsquo; & quot; & quot; & quot;
