@@ -1,0 +1,16 @@
+人是最美的风景                        。
+Man is the most beautiful scenery.
+2020年3月7日/武汉封城第45天。
+Day 45, 7 March 2020 / Wuhan Sealing City.
+发送到看一看 。
+Send it to see.
+2020年3月7日/武汉封城第45天。
+Day 45, 7 March 2020 / Wuhan Sealing City.
+d.title = "2020年3月7日/武汉封城第45天";。
+d. Title = & quot; 7 / Wuhan & quot; 45 & quot;; 7 / 2020.
+d.nick_name = "人是最美的风景";。
+d. Nick _ name = & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot;
+window.name = '人是最美的风景';。
+; People are the most beautiful scenery & apos; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot; & quot;.
+window.desc = '2020年3月7日/武汉封城第45天'.replace(/\r/g, '').replace(/\n/g, '<br>').replace(/\s/g, '&nbsp;');。
+window.desc = & apos; 7 / 3 / 2020 / Wuhan & quot; 45 & apos; .place (/ r / g, & amp; & apos; & nbsp;). Place (/ n / g, & apos; & ltd; br & gt; & apos;).
